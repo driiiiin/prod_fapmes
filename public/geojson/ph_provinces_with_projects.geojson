@@ -1,0 +1,4275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BASILAN",
+                "name": "BASILAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.9,
+                            6.4
+                        ],
+                        [
+                            122.1,
+                            6.4
+                        ],
+                        [
+                            122.1,
+                            6.6
+                        ],
+                        [
+                            121.9,
+                            6.6
+                        ],
+                        [
+                            121.9,
+                            6.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "LANAO DEL SUR",
+                "name": "LANAO DEL SUR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.15,
+                            7.65
+                        ],
+                        [
+                            124.35,
+                            7.65
+                        ],
+                        [
+                            124.35,
+                            7.85
+                        ],
+                        [
+                            124.15,
+                            7.85
+                        ],
+                        [
+                            124.15,
+                            7.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MAGUINDANAO DEL NORTE",
+                "name": "MAGUINDANAO DEL NORTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.9,
+                            6.9
+                        ],
+                        [
+                            124.1,
+                            6.9
+                        ],
+                        [
+                            124.1,
+                            7.1
+                        ],
+                        [
+                            123.9,
+                            7.1
+                        ],
+                        [
+                            123.9,
+                            6.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MAGUINDANAO DEL SUR",
+                "name": "MAGUINDANAO DEL SUR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.4,
+                            6.65
+                        ],
+                        [
+                            124.6,
+                            6.65
+                        ],
+                        [
+                            124.6,
+                            6.85
+                        ],
+                        [
+                            124.4,
+                            6.85
+                        ],
+                        [
+                            124.4,
+                            6.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MAGUINDANAO(TO BE REMOVED)",
+                "name": "MAGUINDANAO(TO BE REMOVED)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SPECIAL GEOGRAPHIC AREA (SGA)",
+                "name": "SPECIAL GEOGRAPHIC AREA (SGA)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SULU",
+                "name": "SULU",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.9,
+                            5.4
+                        ],
+                        [
+                            121.1,
+                            5.4
+                        ],
+                        [
+                            121.1,
+                            5.6
+                        ],
+                        [
+                            120.9,
+                            5.6
+                        ],
+                        [
+                            120.9,
+                            5.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "TAWI-TAWI",
+                "name": "TAWI-TAWI",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            119.65,
+                            4.9
+                        ],
+                        [
+                            119.85,
+                            4.9
+                        ],
+                        [
+                            119.85,
+                            5.1
+                        ],
+                        [
+                            119.65,
+                            5.1
+                        ],
+                        [
+                            119.65,
+                            4.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ABRA",
+                "name": "ABRA",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.65,
+                            17.4833
+                        ],
+                        [
+                            120.85,
+                            17.4833
+                        ],
+                        [
+                            120.85,
+                            17.683300000000003
+                        ],
+                        [
+                            120.65,
+                            17.683300000000003
+                        ],
+                        [
+                            120.65,
+                            17.4833
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "APAYAO",
+                "name": "APAYAO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.06670000000001,
+                            17.9
+                        ],
+                        [
+                            121.2667,
+                            17.9
+                        ],
+                        [
+                            121.2667,
+                            18.1
+                        ],
+                        [
+                            121.06670000000001,
+                            18.1
+                        ],
+                        [
+                            121.06670000000001,
+                            17.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BENGUET",
+                "name": "BENGUET",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.4833,
+                            16.316699999999997
+                        ],
+                        [
+                            120.68329999999999,
+                            16.316699999999997
+                        ],
+                        [
+                            120.68329999999999,
+                            16.5167
+                        ],
+                        [
+                            120.4833,
+                            16.5167
+                        ],
+                        [
+                            120.4833,
+                            16.316699999999997
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF BAGUIO (HUC)",
+                "name": "CITY OF BAGUIO (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "IFUGAO",
+                "name": "IFUGAO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.06670000000001,
+                            16.7333
+                        ],
+                        [
+                            121.2667,
+                            16.7333
+                        ],
+                        [
+                            121.2667,
+                            16.933300000000003
+                        ],
+                        [
+                            121.06670000000001,
+                            16.933300000000003
+                        ],
+                        [
+                            121.06670000000001,
+                            16.7333
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "KALINGA",
+                "name": "KALINGA",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.31670000000001,
+                            17.316699999999997
+                        ],
+                        [
+                            121.5167,
+                            17.316699999999997
+                        ],
+                        [
+                            121.5167,
+                            17.5167
+                        ],
+                        [
+                            121.31670000000001,
+                            17.5167
+                        ],
+                        [
+                            121.31670000000001,
+                            17.316699999999997
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MOUNTAIN PROVINCE",
+                "name": "MOUNTAIN PROVINCE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.81670000000001,
+                            16.9833
+                        ],
+                        [
+                            121.0167,
+                            16.9833
+                        ],
+                        [
+                            121.0167,
+                            17.183300000000003
+                        ],
+                        [
+                            120.81670000000001,
+                            17.183300000000003
+                        ],
+                        [
+                            120.81670000000001,
+                            16.9833
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF PUERTO PRINCESA  (HUC)",
+                "name": "CITY OF PUERTO PRINCESA  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MARINDUQUE",
+                "name": "MARINDUQUE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.81670000000001,
+                            13.3167
+                        ],
+                        [
+                            122.0167,
+                            13.3167
+                        ],
+                        [
+                            122.0167,
+                            13.5167
+                        ],
+                        [
+                            121.81670000000001,
+                            13.5167
+                        ],
+                        [
+                            121.81670000000001,
+                            13.3167
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "OCCIDENTAL MINDORO",
+                "name": "OCCIDENTAL MINDORO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.81670000000001,
+                            12.65
+                        ],
+                        [
+                            121.0167,
+                            12.65
+                        ],
+                        [
+                            121.0167,
+                            12.85
+                        ],
+                        [
+                            120.81670000000001,
+                            12.85
+                        ],
+                        [
+                            120.81670000000001,
+                            12.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ORIENTAL MINDORO",
+                "name": "ORIENTAL MINDORO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.06670000000001,
+                            12.9
+                        ],
+                        [
+                            121.2667,
+                            12.9
+                        ],
+                        [
+                            121.2667,
+                            13.1
+                        ],
+                        [
+                            121.06670000000001,
+                            13.1
+                        ],
+                        [
+                            121.06670000000001,
+                            12.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "PALAWAN",
+                "name": "PALAWAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            118.4,
+                            9.4
+                        ],
+                        [
+                            118.6,
+                            9.4
+                        ],
+                        [
+                            118.6,
+                            9.6
+                        ],
+                        [
+                            118.4,
+                            9.6
+                        ],
+                        [
+                            118.4,
+                            9.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ROMBLON",
+                "name": "ROMBLON",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.15,
+                            12.4833
+                        ],
+                        [
+                            122.35,
+                            12.4833
+                        ],
+                        [
+                            122.35,
+                            12.6833
+                        ],
+                        [
+                            122.15,
+                            12.6833
+                        ],
+                        [
+                            122.15,
+                            12.4833
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF CALOOCAN (HUC)",
+                "name": "CITY OF CALOOCAN (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF LAS PI\u00d1AS (HUC)",
+                "name": "CITY OF LAS PI\u00d1AS (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF MAKATI (HUC)",
+                "name": "CITY OF MAKATI (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF MALABON (HUC)",
+                "name": "CITY OF MALABON (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF MANDALUYONG (HUC)",
+                "name": "CITY OF MANDALUYONG (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF MANILA (HUC)",
+                "name": "CITY OF MANILA (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF MARIKINA (HUC)",
+                "name": "CITY OF MARIKINA (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF MUNTINLUPA (HUC)",
+                "name": "CITY OF MUNTINLUPA (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF NAVOTAS (HUC)",
+                "name": "CITY OF NAVOTAS (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF PARA\u00d1AQUE (HUC)",
+                "name": "CITY OF PARA\u00d1AQUE (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF PASIG (HUC)",
+                "name": "CITY OF PASIG (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF SAN JUAN (HUC)",
+                "name": "CITY OF SAN JUAN (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF TAGUIG (HUC)",
+                "name": "CITY OF TAGUIG (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF VALENZUELA (HUC)",
+                "name": "CITY OF VALENZUELA (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NCR, FOURTH DISTRICT (NOT A PROVINCE)",
+                "name": "NCR, FOURTH DISTRICT (NOT A PROVINCE)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NCR, SECOND DISTRICT (NOT A PROVINCE)",
+                "name": "NCR, SECOND DISTRICT (NOT A PROVINCE)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NCR, THIRD DISTRICT (NOT A PROVINCE)",
+                "name": "NCR, THIRD DISTRICT (NOT A PROVINCE)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "PASAY CITY (HUC)",
+                "name": "PASAY CITY (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "PATEROS",
+                "name": "PATEROS",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "QUEZON CITY (HUC)",
+                "name": "QUEZON CITY (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF BACOLOD  (HUC)",
+                "name": "CITY OF BACOLOD  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NEGROS OCCIDENTAL",
+                "name": "NEGROS OCCIDENTAL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.65,
+                            10.4
+                        ],
+                        [
+                            122.85,
+                            10.4
+                        ],
+                        [
+                            122.85,
+                            10.6
+                        ],
+                        [
+                            122.65,
+                            10.6
+                        ],
+                        [
+                            122.65,
+                            10.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NEGROS ORIENTAL",
+                "name": "NEGROS ORIENTAL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.9,
+                            9.4
+                        ],
+                        [
+                            123.1,
+                            9.4
+                        ],
+                        [
+                            123.1,
+                            9.6
+                        ],
+                        [
+                            122.9,
+                            9.6
+                        ],
+                        [
+                            122.9,
+                            9.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SIQUIJOR",
+                "name": "SIQUIJOR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.4,
+                            9.15
+                        ],
+                        [
+                            123.6,
+                            9.15
+                        ],
+                        [
+                            123.6,
+                            9.35
+                        ],
+                        [
+                            123.4,
+                            9.35
+                        ],
+                        [
+                            123.4,
+                            9.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ILOCOS NORTE",
+                "name": "ILOCOS NORTE",
+                "project_count": 1
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.4833,
+                            18.099999999999998
+                        ],
+                        [
+                            120.68329999999999,
+                            18.099999999999998
+                        ],
+                        [
+                            120.68329999999999,
+                            18.3
+                        ],
+                        [
+                            120.4833,
+                            18.3
+                        ],
+                        [
+                            120.4833,
+                            18.099999999999998
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ILOCOS SUR",
+                "name": "ILOCOS SUR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.4,
+                            17.2333
+                        ],
+                        [
+                            120.6,
+                            17.2333
+                        ],
+                        [
+                            120.6,
+                            17.433300000000003
+                        ],
+                        [
+                            120.4,
+                            17.433300000000003
+                        ],
+                        [
+                            120.4,
+                            17.2333
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "LA UNION",
+                "name": "LA UNION",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.31670000000001,
+                            16.4
+                        ],
+                        [
+                            120.5167,
+                            16.4
+                        ],
+                        [
+                            120.5167,
+                            16.6
+                        ],
+                        [
+                            120.31670000000001,
+                            16.6
+                        ],
+                        [
+                            120.31670000000001,
+                            16.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "PANGASINAN",
+                "name": "PANGASINAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.1863,
+                            15.7949
+                        ],
+                        [
+                            120.38629999999999,
+                            15.7949
+                        ],
+                        [
+                            120.38629999999999,
+                            15.9949
+                        ],
+                        [
+                            120.1863,
+                            15.9949
+                        ],
+                        [
+                            120.1863,
+                            15.7949
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BATANES",
+                "name": "BATANES",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.81670000000001,
+                            20.316699999999997
+                        ],
+                        [
+                            122.0167,
+                            20.316699999999997
+                        ],
+                        [
+                            122.0167,
+                            20.5167
+                        ],
+                        [
+                            121.81670000000001,
+                            20.5167
+                        ],
+                        [
+                            121.81670000000001,
+                            20.316699999999997
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CAGAYAN",
+                "name": "CAGAYAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.65,
+                            17.65
+                        ],
+                        [
+                            121.85,
+                            17.65
+                        ],
+                        [
+                            121.85,
+                            17.85
+                        ],
+                        [
+                            121.65,
+                            17.85
+                        ],
+                        [
+                            121.65,
+                            17.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ISABELA",
+                "name": "ISABELA",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.65,
+                            16.65
+                        ],
+                        [
+                            121.85,
+                            16.65
+                        ],
+                        [
+                            121.85,
+                            16.85
+                        ],
+                        [
+                            121.65,
+                            16.85
+                        ],
+                        [
+                            121.65,
+                            16.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NUEVA VIZCAYA",
+                "name": "NUEVA VIZCAYA",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.06670000000001,
+                            16.4
+                        ],
+                        [
+                            121.2667,
+                            16.4
+                        ],
+                        [
+                            121.2667,
+                            16.6
+                        ],
+                        [
+                            121.06670000000001,
+                            16.6
+                        ],
+                        [
+                            121.06670000000001,
+                            16.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "QUIRINO",
+                "name": "QUIRINO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.4833,
+                            16.15
+                        ],
+                        [
+                            121.68329999999999,
+                            16.15
+                        ],
+                        [
+                            121.68329999999999,
+                            16.35
+                        ],
+                        [
+                            121.4833,
+                            16.35
+                        ],
+                        [
+                            121.4833,
+                            16.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "AURORA",
+                "name": "AURORA",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.4,
+                            15.4833
+                        ],
+                        [
+                            121.6,
+                            15.4833
+                        ],
+                        [
+                            121.6,
+                            15.6833
+                        ],
+                        [
+                            121.4,
+                            15.6833
+                        ],
+                        [
+                            121.4,
+                            15.4833
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BATAAN",
+                "name": "BATAAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.31670000000001,
+                            14.5667
+                        ],
+                        [
+                            120.5167,
+                            14.5667
+                        ],
+                        [
+                            120.5167,
+                            14.7667
+                        ],
+                        [
+                            120.31670000000001,
+                            14.7667
+                        ],
+                        [
+                            120.31670000000001,
+                            14.5667
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BULACAN",
+                "name": "BULACAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.77990000000001,
+                            14.6943
+                        ],
+                        [
+                            120.9799,
+                            14.6943
+                        ],
+                        [
+                            120.9799,
+                            14.8943
+                        ],
+                        [
+                            120.77990000000001,
+                            14.8943
+                        ],
+                        [
+                            120.77990000000001,
+                            14.6943
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF ANGELES (HUC)",
+                "name": "CITY OF ANGELES (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF OLONGAPO (HUC)",
+                "name": "CITY OF OLONGAPO (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NUEVA ECIJA",
+                "name": "NUEVA ECIJA",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.88260000000001,
+                            15.4786
+                        ],
+                        [
+                            121.0826,
+                            15.4786
+                        ],
+                        [
+                            121.0826,
+                            15.6786
+                        ],
+                        [
+                            120.88260000000001,
+                            15.6786
+                        ],
+                        [
+                            120.88260000000001,
+                            15.4786
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "PAMPANGA",
+                "name": "PAMPANGA",
+                "project_count": 1
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.52000000000001,
+                            14.9794
+                        ],
+                        [
+                            120.72,
+                            14.9794
+                        ],
+                        [
+                            120.72,
+                            15.1794
+                        ],
+                        [
+                            120.52000000000001,
+                            15.1794
+                        ],
+                        [
+                            120.52000000000001,
+                            14.9794
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "TARLAC",
+                "name": "TARLAC",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.4963,
+                            15.3755
+                        ],
+                        [
+                            120.6963,
+                            15.3755
+                        ],
+                        [
+                            120.6963,
+                            15.5755
+                        ],
+                        [
+                            120.4963,
+                            15.5755
+                        ],
+                        [
+                            120.4963,
+                            15.3755
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ZAMBALES",
+                "name": "ZAMBALES",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.06670000000001,
+                            14.9
+                        ],
+                        [
+                            120.2667,
+                            14.9
+                        ],
+                        [
+                            120.2667,
+                            15.1
+                        ],
+                        [
+                            120.06670000000001,
+                            15.1
+                        ],
+                        [
+                            120.06670000000001,
+                            14.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BATANGAS",
+                "name": "BATANGAS",
+                "project_count": 1
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.95830000000001,
+                            13.656500000000001
+                        ],
+                        [
+                            121.1583,
+                            13.656500000000001
+                        ],
+                        [
+                            121.1583,
+                            13.8565
+                        ],
+                        [
+                            120.95830000000001,
+                            13.8565
+                        ],
+                        [
+                            120.95830000000001,
+                            13.656500000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CAVITE",
+                "name": "CAVITE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.79690000000001,
+                            14.379100000000001
+                        ],
+                        [
+                            120.9969,
+                            14.379100000000001
+                        ],
+                        [
+                            120.9969,
+                            14.5791
+                        ],
+                        [
+                            120.79690000000001,
+                            14.5791
+                        ],
+                        [
+                            120.79690000000001,
+                            14.379100000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF LUCENA  (HUC)",
+                "name": "CITY OF LUCENA  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "LAGUNA",
+                "name": "LAGUNA",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.11670000000001,
+                            14.0667
+                        ],
+                        [
+                            121.3167,
+                            14.0667
+                        ],
+                        [
+                            121.3167,
+                            14.2667
+                        ],
+                        [
+                            121.11670000000001,
+                            14.2667
+                        ],
+                        [
+                            121.11670000000001,
+                            14.0667
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "QUEZON",
+                "name": "QUEZON",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.9437,
+                            14.576
+                        ],
+                        [
+                            121.1437,
+                            14.576
+                        ],
+                        [
+                            121.1437,
+                            14.776
+                        ],
+                        [
+                            120.9437,
+                            14.776
+                        ],
+                        [
+                            120.9437,
+                            14.576
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "RIZAL",
+                "name": "RIZAL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.00290000000001,
+                            14.5507
+                        ],
+                        [
+                            121.2029,
+                            14.5507
+                        ],
+                        [
+                            121.2029,
+                            14.7507
+                        ],
+                        [
+                            121.00290000000001,
+                            14.7507
+                        ],
+                        [
+                            121.00290000000001,
+                            14.5507
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF ISABELA (NOT A PROVINCE) (HUC)",
+                "name": "CITY OF ISABELA (NOT A PROVINCE) (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF ZAMBOANGA (HUC)",
+                "name": "CITY OF ZAMBOANGA (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ZAMBOANGA DEL NORTE",
+                "name": "ZAMBOANGA DEL NORTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.9,
+                            8.4
+                        ],
+                        [
+                            123.1,
+                            8.4
+                        ],
+                        [
+                            123.1,
+                            8.6
+                        ],
+                        [
+                            122.9,
+                            8.6
+                        ],
+                        [
+                            122.9,
+                            8.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ZAMBOANGA DEL SUR",
+                "name": "ZAMBOANGA DEL SUR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.4,
+                            7.4
+                        ],
+                        [
+                            123.6,
+                            7.4
+                        ],
+                        [
+                            123.6,
+                            7.6
+                        ],
+                        [
+                            123.4,
+                            7.6
+                        ],
+                        [
+                            123.4,
+                            7.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ZAMBOANGA SIBUGAY",
+                "name": "ZAMBOANGA SIBUGAY",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.65,
+                            7.65
+                        ],
+                        [
+                            122.85,
+                            7.65
+                        ],
+                        [
+                            122.85,
+                            7.85
+                        ],
+                        [
+                            122.65,
+                            7.85
+                        ],
+                        [
+                            122.65,
+                            7.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ALBAY",
+                "name": "ALBAY",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.65,
+                            13.15
+                        ],
+                        [
+                            123.85,
+                            13.15
+                        ],
+                        [
+                            123.85,
+                            13.35
+                        ],
+                        [
+                            123.65,
+                            13.35
+                        ],
+                        [
+                            123.65,
+                            13.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CAMARINES NORTE",
+                "name": "CAMARINES NORTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.65,
+                            13.9
+                        ],
+                        [
+                            122.85,
+                            13.9
+                        ],
+                        [
+                            122.85,
+                            14.1
+                        ],
+                        [
+                            122.65,
+                            14.1
+                        ],
+                        [
+                            122.65,
+                            13.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CAMARINES SUR",
+                "name": "CAMARINES SUR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.15,
+                            13.4
+                        ],
+                        [
+                            123.35,
+                            13.4
+                        ],
+                        [
+                            123.35,
+                            13.6
+                        ],
+                        [
+                            123.15,
+                            13.6
+                        ],
+                        [
+                            123.15,
+                            13.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CATANDUANES",
+                "name": "CATANDUANES",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.15,
+                            13.65
+                        ],
+                        [
+                            124.35,
+                            13.65
+                        ],
+                        [
+                            124.35,
+                            13.85
+                        ],
+                        [
+                            124.15,
+                            13.85
+                        ],
+                        [
+                            124.15,
+                            13.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MASBATE",
+                "name": "MASBATE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.4,
+                            12.15
+                        ],
+                        [
+                            123.6,
+                            12.15
+                        ],
+                        [
+                            123.6,
+                            12.35
+                        ],
+                        [
+                            123.4,
+                            12.35
+                        ],
+                        [
+                            123.4,
+                            12.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SORSOGON",
+                "name": "SORSOGON",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.9,
+                            12.65
+                        ],
+                        [
+                            124.1,
+                            12.65
+                        ],
+                        [
+                            124.1,
+                            12.85
+                        ],
+                        [
+                            123.9,
+                            12.85
+                        ],
+                        [
+                            123.9,
+                            12.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "AKLAN",
+                "name": "AKLAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.15,
+                            11.4
+                        ],
+                        [
+                            122.35,
+                            11.4
+                        ],
+                        [
+                            122.35,
+                            11.6
+                        ],
+                        [
+                            122.15,
+                            11.6
+                        ],
+                        [
+                            122.15,
+                            11.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ANTIQUE",
+                "name": "ANTIQUE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.9,
+                            10.9
+                        ],
+                        [
+                            122.1,
+                            10.9
+                        ],
+                        [
+                            122.1,
+                            11.1
+                        ],
+                        [
+                            121.9,
+                            11.1
+                        ],
+                        [
+                            121.9,
+                            10.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CAPIZ",
+                "name": "CAPIZ",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.65,
+                            11.4
+                        ],
+                        [
+                            122.85,
+                            11.4
+                        ],
+                        [
+                            122.85,
+                            11.6
+                        ],
+                        [
+                            122.65,
+                            11.6
+                        ],
+                        [
+                            122.65,
+                            11.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF ILOILO  (HUC)",
+                "name": "CITY OF ILOILO  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "GUIMARAS",
+                "name": "GUIMARAS",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.4,
+                            10.4
+                        ],
+                        [
+                            122.6,
+                            10.4
+                        ],
+                        [
+                            122.6,
+                            10.6
+                        ],
+                        [
+                            122.4,
+                            10.6
+                        ],
+                        [
+                            122.4,
+                            10.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "ILOILO",
+                "name": "ILOILO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.4621,
+                            10.6203
+                        ],
+                        [
+                            122.6621,
+                            10.6203
+                        ],
+                        [
+                            122.6621,
+                            10.8203
+                        ],
+                        [
+                            122.4621,
+                            10.8203
+                        ],
+                        [
+                            122.4621,
+                            10.6203
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BOHOL",
+                "name": "BOHOL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.15,
+                            9.65
+                        ],
+                        [
+                            124.35,
+                            9.65
+                        ],
+                        [
+                            124.35,
+                            9.85
+                        ],
+                        [
+                            124.15,
+                            9.85
+                        ],
+                        [
+                            124.15,
+                            9.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CEBU",
+                "name": "CEBU",
+                "project_count": 1
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.78540000000001,
+                            10.2157
+                        ],
+                        [
+                            123.9854,
+                            10.2157
+                        ],
+                        [
+                            123.9854,
+                            10.4157
+                        ],
+                        [
+                            123.78540000000001,
+                            10.4157
+                        ],
+                        [
+                            123.78540000000001,
+                            10.2157
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF CEBU  (HUC)",
+                "name": "CITY OF CEBU  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF LAPU-LAPU (HUC)",
+                "name": "CITY OF LAPU-LAPU (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF MANDAUE (HUC)",
+                "name": "CITY OF MANDAUE (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BILIRAN",
+                "name": "BILIRAN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.4,
+                            11.4
+                        ],
+                        [
+                            124.6,
+                            11.4
+                        ],
+                        [
+                            124.6,
+                            11.6
+                        ],
+                        [
+                            124.4,
+                            11.6
+                        ],
+                        [
+                            124.4,
+                            11.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF TACLOBAN  (HUC)",
+                "name": "CITY OF TACLOBAN  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "EASTERN SAMAR",
+                "name": "EASTERN SAMAR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.4,
+                            11.4
+                        ],
+                        [
+                            125.6,
+                            11.4
+                        ],
+                        [
+                            125.6,
+                            11.6
+                        ],
+                        [
+                            125.4,
+                            11.6
+                        ],
+                        [
+                            125.4,
+                            11.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "LEYTE",
+                "name": "LEYTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.65,
+                            10.9
+                        ],
+                        [
+                            124.85,
+                            10.9
+                        ],
+                        [
+                            124.85,
+                            11.1
+                        ],
+                        [
+                            124.65,
+                            11.1
+                        ],
+                        [
+                            124.65,
+                            10.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "NORTHERN SAMAR",
+                "name": "NORTHERN SAMAR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.65,
+                            12.4
+                        ],
+                        [
+                            124.85,
+                            12.4
+                        ],
+                        [
+                            124.85,
+                            12.6
+                        ],
+                        [
+                            124.65,
+                            12.6
+                        ],
+                        [
+                            124.65,
+                            12.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SAMAR",
+                "name": "SAMAR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.9,
+                            11.65
+                        ],
+                        [
+                            125.1,
+                            11.65
+                        ],
+                        [
+                            125.1,
+                            11.85
+                        ],
+                        [
+                            124.9,
+                            11.85
+                        ],
+                        [
+                            124.9,
+                            11.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SOUTHERN LEYTE",
+                "name": "SOUTHERN LEYTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.9,
+                            10.15
+                        ],
+                        [
+                            125.1,
+                            10.15
+                        ],
+                        [
+                            125.1,
+                            10.35
+                        ],
+                        [
+                            124.9,
+                            10.35
+                        ],
+                        [
+                            124.9,
+                            10.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "BUKIDNON",
+                "name": "BUKIDNON",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.9,
+                            7.9
+                        ],
+                        [
+                            125.1,
+                            7.9
+                        ],
+                        [
+                            125.1,
+                            8.1
+                        ],
+                        [
+                            124.9,
+                            8.1
+                        ],
+                        [
+                            124.9,
+                            7.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CAMIGUIN",
+                "name": "CAMIGUIN",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.65,
+                            9.15
+                        ],
+                        [
+                            124.85,
+                            9.15
+                        ],
+                        [
+                            124.85,
+                            9.35
+                        ],
+                        [
+                            124.65,
+                            9.35
+                        ],
+                        [
+                            124.65,
+                            9.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF CAGAYAN DE ORO  (HUC)",
+                "name": "CITY OF CAGAYAN DE ORO  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF ILIGAN (HUC)",
+                "name": "CITY OF ILIGAN (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "LANAO DEL NORTE",
+                "name": "LANAO DEL NORTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.9,
+                            7.9
+                        ],
+                        [
+                            124.1,
+                            7.9
+                        ],
+                        [
+                            124.1,
+                            8.1
+                        ],
+                        [
+                            123.9,
+                            8.1
+                        ],
+                        [
+                            123.9,
+                            7.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MISAMIS OCCIDENTAL",
+                "name": "MISAMIS OCCIDENTAL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.65,
+                            8.15
+                        ],
+                        [
+                            123.85,
+                            8.15
+                        ],
+                        [
+                            123.85,
+                            8.35
+                        ],
+                        [
+                            123.65,
+                            8.35
+                        ],
+                        [
+                            123.65,
+                            8.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "MISAMIS ORIENTAL",
+                "name": "MISAMIS ORIENTAL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.4,
+                            8.4
+                        ],
+                        [
+                            124.6,
+                            8.4
+                        ],
+                        [
+                            124.6,
+                            8.6
+                        ],
+                        [
+                            124.4,
+                            8.6
+                        ],
+                        [
+                            124.4,
+                            8.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF DAVAO (HUC)",
+                "name": "CITY OF DAVAO (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "DAVAO DE ORO",
+                "name": "DAVAO DE ORO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.9,
+                            7.4
+                        ],
+                        [
+                            126.1,
+                            7.4
+                        ],
+                        [
+                            126.1,
+                            7.6
+                        ],
+                        [
+                            125.9,
+                            7.6
+                        ],
+                        [
+                            125.9,
+                            7.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "DAVAO DEL NORTE",
+                "name": "DAVAO DEL NORTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.65,
+                            7.4
+                        ],
+                        [
+                            125.85,
+                            7.4
+                        ],
+                        [
+                            125.85,
+                            7.6
+                        ],
+                        [
+                            125.65,
+                            7.6
+                        ],
+                        [
+                            125.65,
+                            7.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "DAVAO DEL SUR",
+                "name": "DAVAO DEL SUR",
+                "project_count": 1
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.2286,
+                            6.666
+                        ],
+                        [
+                            125.42859999999999,
+                            6.666
+                        ],
+                        [
+                            125.42859999999999,
+                            6.866
+                        ],
+                        [
+                            125.2286,
+                            6.866
+                        ],
+                        [
+                            125.2286,
+                            6.666
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "DAVAO OCCIDENTAL",
+                "name": "DAVAO OCCIDENTAL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.4,
+                            6.4
+                        ],
+                        [
+                            125.6,
+                            6.4
+                        ],
+                        [
+                            125.6,
+                            6.6
+                        ],
+                        [
+                            125.4,
+                            6.6
+                        ],
+                        [
+                            125.4,
+                            6.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "DAVAO ORIENTAL",
+                "name": "DAVAO ORIENTAL",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126.15,
+                            6.9
+                        ],
+                        [
+                            126.35,
+                            6.9
+                        ],
+                        [
+                            126.35,
+                            7.1
+                        ],
+                        [
+                            126.15,
+                            7.1
+                        ],
+                        [
+                            126.15,
+                            6.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF GENERAL SANTOS (HUC)",
+                "name": "CITY OF GENERAL SANTOS (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "COTABATO",
+                "name": "COTABATO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.4,
+                            6.9
+                        ],
+                        [
+                            124.6,
+                            6.9
+                        ],
+                        [
+                            124.6,
+                            7.1
+                        ],
+                        [
+                            124.4,
+                            7.1
+                        ],
+                        [
+                            124.4,
+                            6.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SARANGANI",
+                "name": "SARANGANI",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.9,
+                            5.9
+                        ],
+                        [
+                            125.1,
+                            5.9
+                        ],
+                        [
+                            125.1,
+                            6.1
+                        ],
+                        [
+                            124.9,
+                            6.1
+                        ],
+                        [
+                            124.9,
+                            5.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SOUTH COTABATO",
+                "name": "SOUTH COTABATO",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.9,
+                            6.4
+                        ],
+                        [
+                            125.1,
+                            6.4
+                        ],
+                        [
+                            125.1,
+                            6.6
+                        ],
+                        [
+                            124.9,
+                            6.6
+                        ],
+                        [
+                            124.9,
+                            6.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SULTAN KUDARAT",
+                "name": "SULTAN KUDARAT",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.4,
+                            6.4
+                        ],
+                        [
+                            124.6,
+                            6.4
+                        ],
+                        [
+                            124.6,
+                            6.6
+                        ],
+                        [
+                            124.4,
+                            6.6
+                        ],
+                        [
+                            124.4,
+                            6.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "AGUSAN DEL NORTE",
+                "name": "AGUSAN DEL NORTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.4,
+                            8.9
+                        ],
+                        [
+                            125.6,
+                            8.9
+                        ],
+                        [
+                            125.6,
+                            9.1
+                        ],
+                        [
+                            125.4,
+                            9.1
+                        ],
+                        [
+                            125.4,
+                            8.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "AGUSAN DEL SUR",
+                "name": "AGUSAN DEL SUR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.9,
+                            8.4
+                        ],
+                        [
+                            126.1,
+                            8.4
+                        ],
+                        [
+                            126.1,
+                            8.6
+                        ],
+                        [
+                            125.9,
+                            8.6
+                        ],
+                        [
+                            125.9,
+                            8.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "CITY OF BUTUAN  (HUC)",
+                "name": "CITY OF BUTUAN  (HUC)",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.674,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.7797
+                        ],
+                        [
+                            121.874,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.9797
+                        ],
+                        [
+                            121.674,
+                            12.7797
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "DINAGAT ISLANDS",
+                "name": "DINAGAT ISLANDS",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.4,
+                            9.9
+                        ],
+                        [
+                            125.6,
+                            9.9
+                        ],
+                        [
+                            125.6,
+                            10.1
+                        ],
+                        [
+                            125.4,
+                            10.1
+                        ],
+                        [
+                            125.4,
+                            9.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SURIGAO DEL NORTE",
+                "name": "SURIGAO DEL NORTE",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.4,
+                            9.65
+                        ],
+                        [
+                            125.6,
+                            9.65
+                        ],
+                        [
+                            125.6,
+                            9.85
+                        ],
+                        [
+                            125.4,
+                            9.85
+                        ],
+                        [
+                            125.4,
+                            9.65
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NAME_2": "SURIGAO DEL SUR",
+                "name": "SURIGAO DEL SUR",
+                "project_count": 0
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.9,
+                            8.4
+                        ],
+                        [
+                            126.1,
+                            8.4
+                        ],
+                        [
+                            126.1,
+                            8.6
+                        ],
+                        [
+                            125.9,
+                            8.6
+                        ],
+                        [
+                            125.9,
+                            8.4
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

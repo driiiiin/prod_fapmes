@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* for css of sidenavbar */
+.sidebar {
+    width: 250px;
+    position: fixed;
+    left: -250px;
+    transition: left 0.3s ease;
+}
+
+.sidebar.active {
+    left: 0;
+}
+
+#main-content {
+    margin-left: 0;
+    transition: margin-left 0.3s ease;
+}
+
+#main-content.sidebar-active {
+    margin-left: 250px;
+}
+
+.hidden-column {
+    display: none; /* This will hide the column FAPSLIST*/
+}
+
+
+

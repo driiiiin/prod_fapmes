@@ -1,0 +1,17 @@
+funds_id,funds_code,funds_desc
+1,ADB,Asian Development Bank (ADB)
+2,WB,World Bank (WB)
+3,JICA,Japan International Cooperation Agency (JICA)
+4,GF,The Global Fund (GF)
+5,Canada,Government of Canada through (OXFAM)
+6,WHO,World Health Organization (WHO)
+7,USAID,United States Agency for International Development (USAID)
+8,UNICEF,United Nations Children's Fund (UNICEF)
+9,UNFPA,United Nations Population Fund (UNFPA)
+10,US CDC,U.S. Centers for Disease Control
+11,US HRSA,United States Department of Health and Health Resources and Services Administration
+12,US DTRA,US Defense Threat Reduction Agency (US DTRA) for the Cooperative Threat Reduction Integrating Contract Project (CTRIC)
+13,Japan,Government of Japan
+14,Vital Strategies,Vital Strategies
+15,KIP PPS,Republic of Korea through (KIP PPS)
+16,KOICA,Republic of Korea through (KOICA)

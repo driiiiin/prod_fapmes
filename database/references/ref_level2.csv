@@ -1,0 +1,34 @@
+level1_code,level1_desc,level2_code,level2_desc
+1,Infectious Disease,1,HIV
+1,Infectious Disease,2,Hepatitis
+1,Infectious Disease,3,Tuberculosis
+1,Infectious Disease,4,Emerging and re-emerging diseases
+2,Non-Communicable Disease,5,Aging
+2,Non-Communicable Disease,6,Hypertension
+2,Non-Communicable Disease,7,Diabetes
+2,Non-Communicable Disease,8,Cancer
+2,Non-Communicable Disease,9,Non-infectious Lung Related Injury
+2,Non-Communicable Disease,10,Kidney Disease
+3,Environmental Health and Climate Change,11,"Water Access, Sanitation, and Hygiene (WASH)"
+3,Environmental Health and Climate Change,12,Green Health Infrastructure
+4,Maternal and Child Health,13,Maternal Health
+4,Maternal and Child Health,14,Adolescent Health
+4,Maternal and Child Health,15,Family Planning
+4,Maternal and Child Health,16,Sexual and Reproductive Health Rights
+4,Maternal and Child Health,17,Newborn and Neonatal Health
+5,Immunization,18,National Immunization Program
+6,Nutrition,19,Malnutrition
+6,Nutrition,20,Nutrition in Emergencies
+7,Substance Abuse and Mental Health Disorders,21,Drug abuse
+7,Substance Abuse and Mental Health Disorders,22,Drug rehabilitation
+7,Substance Abuse and Mental Health Disorders,23,Mental Health
+8,Anti Microbial Resistance,24,N/A
+9,Health Emergency Management,25,Road Safety
+10,Health Promotion,26,N/A
+11,Occupational Safety and Health,27,Rehabilitation
+11,Occupational Safety and Health,28,Occupational Disease Prevention
+11,Occupational Safety and Health,29,Migrant Health
+11,Occupational Safety and Health,30,Musculoskeletal Disorders
+12,Oral Health,31,N/A
+13,Violence and Injury Prevention,32,Gender Based Violence
+13,Violence and Injury Prevention,33,Child Protection

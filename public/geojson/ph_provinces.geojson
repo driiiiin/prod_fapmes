@@ -1,0 +1,4843 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "1",
+                "provcode": "1028",
+                "regcode_9": "1",
+                "provcode_9": "128",
+                "name": "ILOCOS NORTE",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            222.8,
+                            -88.80000000000001
+                        ],
+                        [
+                            223.3,
+                            -88.80000000000001
+                        ],
+                        [
+                            223.3,
+                            -88.30000000000001
+                        ],
+                        [
+                            222.8,
+                            -88.30000000000001
+                        ],
+                        [
+                            222.8,
+                            -88.80000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "1",
+                "provcode": "1029",
+                "regcode_9": "1",
+                "provcode_9": "129",
+                "name": "ILOCOS SUR",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            222.9,
+                            -88.9
+                        ],
+                        [
+                            223.4,
+                            -88.9
+                        ],
+                        [
+                            223.4,
+                            -88.4
+                        ],
+                        [
+                            222.9,
+                            -88.4
+                        ],
+                        [
+                            222.9,
+                            -88.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "1",
+                "provcode": "1033",
+                "regcode_9": "1",
+                "provcode_9": "133",
+                "name": "LA UNION",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            223.3,
+                            -89.30000000000001
+                        ],
+                        [
+                            223.8,
+                            -89.30000000000001
+                        ],
+                        [
+                            223.8,
+                            -88.80000000000001
+                        ],
+                        [
+                            223.3,
+                            -88.80000000000001
+                        ],
+                        [
+                            223.3,
+                            -89.30000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "1",
+                "provcode": "1055",
+                "regcode_9": "1",
+                "provcode_9": "155",
+                "name": "PANGASINAN",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            225.5,
+                            -91.5
+                        ],
+                        [
+                            226,
+                            -91.5
+                        ],
+                        [
+                            226,
+                            -91
+                        ],
+                        [
+                            225.5,
+                            -91
+                        ],
+                        [
+                            225.5,
+                            -91.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "2",
+                "provcode": "2009",
+                "regcode_9": "2",
+                "provcode_9": "209",
+                "name": "BATANES",
+                "old_names": "",
+                "incomeclass": "5th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            320.9,
+                            -186.9
+                        ],
+                        [
+                            321.4,
+                            -186.9
+                        ],
+                        [
+                            321.4,
+                            -186.4
+                        ],
+                        [
+                            320.9,
+                            -186.4
+                        ],
+                        [
+                            320.9,
+                            -186.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "2",
+                "provcode": "2015",
+                "regcode_9": "2",
+                "provcode_9": "215",
+                "name": "CAGAYAN",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            321.5,
+                            -187.5
+                        ],
+                        [
+                            322,
+                            -187.5
+                        ],
+                        [
+                            322,
+                            -187
+                        ],
+                        [
+                            321.5,
+                            -187
+                        ],
+                        [
+                            321.5,
+                            -187.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "2",
+                "provcode": "2031",
+                "regcode_9": "2",
+                "provcode_9": "231",
+                "name": "ISABELA",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            323.1,
+                            -189.10000000000002
+                        ],
+                        [
+                            323.6,
+                            -189.10000000000002
+                        ],
+                        [
+                            323.6,
+                            -188.60000000000002
+                        ],
+                        [
+                            323.1,
+                            -188.60000000000002
+                        ],
+                        [
+                            323.1,
+                            -189.10000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "2",
+                "provcode": "2050",
+                "regcode_9": "2",
+                "provcode_9": "250",
+                "name": "NUEVA VIZCAYA",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            325,
+                            -191
+                        ],
+                        [
+                            325.5,
+                            -191
+                        ],
+                        [
+                            325.5,
+                            -190.5
+                        ],
+                        [
+                            325,
+                            -190.5
+                        ],
+                        [
+                            325,
+                            -191
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "2",
+                "provcode": "2057",
+                "regcode_9": "2",
+                "provcode_9": "257",
+                "name": "QUIRINO",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            325.70000000000005,
+                            -191.70000000000002
+                        ],
+                        [
+                            326.20000000000005,
+                            -191.70000000000002
+                        ],
+                        [
+                            326.20000000000005,
+                            -191.20000000000002
+                        ],
+                        [
+                            325.70000000000005,
+                            -191.20000000000002
+                        ],
+                        [
+                            325.70000000000005,
+                            -191.70000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3008",
+                "regcode_9": "3",
+                "provcode_9": "308",
+                "name": "BATAAN",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            420.8,
+                            -286.8
+                        ],
+                        [
+                            421.3,
+                            -286.8
+                        ],
+                        [
+                            421.3,
+                            -286.3
+                        ],
+                        [
+                            420.8,
+                            -286.3
+                        ],
+                        [
+                            420.8,
+                            -286.8
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3014",
+                "regcode_9": "3",
+                "provcode_9": "314",
+                "name": "BULACAN",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            421.40000000000003,
+                            -287.40000000000003
+                        ],
+                        [
+                            421.90000000000003,
+                            -287.40000000000003
+                        ],
+                        [
+                            421.90000000000003,
+                            -286.90000000000003
+                        ],
+                        [
+                            421.40000000000003,
+                            -286.90000000000003
+                        ],
+                        [
+                            421.40000000000003,
+                            -287.40000000000003
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3049",
+                "regcode_9": "3",
+                "provcode_9": "349",
+                "name": "NUEVA ECIJA",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            424.90000000000003,
+                            -290.90000000000003
+                        ],
+                        [
+                            425.40000000000003,
+                            -290.90000000000003
+                        ],
+                        [
+                            425.40000000000003,
+                            -290.40000000000003
+                        ],
+                        [
+                            424.90000000000003,
+                            -290.40000000000003
+                        ],
+                        [
+                            424.90000000000003,
+                            -290.90000000000003
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3054",
+                "regcode_9": "3",
+                "provcode_9": "354",
+                "name": "PAMPANGA",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            425.40000000000003,
+                            -291.40000000000003
+                        ],
+                        [
+                            425.90000000000003,
+                            -291.40000000000003
+                        ],
+                        [
+                            425.90000000000003,
+                            -290.90000000000003
+                        ],
+                        [
+                            425.40000000000003,
+                            -290.90000000000003
+                        ],
+                        [
+                            425.40000000000003,
+                            -291.40000000000003
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3069",
+                "regcode_9": "3",
+                "provcode_9": "369",
+                "name": "TARLAC",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            426.90000000000003,
+                            -292.90000000000003
+                        ],
+                        [
+                            427.40000000000003,
+                            -292.90000000000003
+                        ],
+                        [
+                            427.40000000000003,
+                            -292.40000000000003
+                        ],
+                        [
+                            426.90000000000003,
+                            -292.40000000000003
+                        ],
+                        [
+                            426.90000000000003,
+                            -292.90000000000003
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3071",
+                "regcode_9": "3",
+                "provcode_9": "371",
+                "name": "ZAMBALES",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            427.1,
+                            -293.1
+                        ],
+                        [
+                            427.6,
+                            -293.1
+                        ],
+                        [
+                            427.6,
+                            -292.6
+                        ],
+                        [
+                            427.1,
+                            -292.6
+                        ],
+                        [
+                            427.1,
+                            -293.1
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3077",
+                "regcode_9": "3",
+                "provcode_9": "377",
+                "name": "AURORA",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            427.70000000000005,
+                            -293.70000000000005
+                        ],
+                        [
+                            428.20000000000005,
+                            -293.70000000000005
+                        ],
+                        [
+                            428.20000000000005,
+                            -293.20000000000005
+                        ],
+                        [
+                            427.70000000000005,
+                            -293.20000000000005
+                        ],
+                        [
+                            427.70000000000005,
+                            -293.70000000000005
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "4",
+                "provcode": "4010",
+                "regcode_9": "4",
+                "provcode_9": "410",
+                "name": "BATANGAS",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            521,
+                            -387
+                        ],
+                        [
+                            521.5,
+                            -387
+                        ],
+                        [
+                            521.5,
+                            -386.5
+                        ],
+                        [
+                            521,
+                            -386.5
+                        ],
+                        [
+                            521,
+                            -387
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "4",
+                "provcode": "4021",
+                "regcode_9": "4",
+                "provcode_9": "421",
+                "name": "CAVITE",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            522.1,
+                            -388.1
+                        ],
+                        [
+                            522.6,
+                            -388.1
+                        ],
+                        [
+                            522.6,
+                            -387.6
+                        ],
+                        [
+                            522.1,
+                            -387.6
+                        ],
+                        [
+                            522.1,
+                            -388.1
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "4",
+                "provcode": "4034",
+                "regcode_9": "4",
+                "provcode_9": "434",
+                "name": "LAGUNA",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            523.4000000000001,
+                            -389.40000000000003
+                        ],
+                        [
+                            523.9000000000001,
+                            -389.40000000000003
+                        ],
+                        [
+                            523.9000000000001,
+                            -388.90000000000003
+                        ],
+                        [
+                            523.4000000000001,
+                            -388.90000000000003
+                        ],
+                        [
+                            523.4000000000001,
+                            -389.40000000000003
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "4",
+                "provcode": "4056",
+                "regcode_9": "4",
+                "provcode_9": "456",
+                "name": "QUEZON",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            525.6,
+                            -391.6
+                        ],
+                        [
+                            526.1,
+                            -391.6
+                        ],
+                        [
+                            526.1,
+                            -391.1
+                        ],
+                        [
+                            525.6,
+                            -391.1
+                        ],
+                        [
+                            525.6,
+                            -391.6
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "4",
+                "provcode": "4058",
+                "regcode_9": "4",
+                "provcode_9": "458",
+                "name": "RIZAL",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            525.8,
+                            -391.8
+                        ],
+                        [
+                            526.3,
+                            -391.8
+                        ],
+                        [
+                            526.3,
+                            -391.3
+                        ],
+                        [
+                            525.8,
+                            -391.3
+                        ],
+                        [
+                            525.8,
+                            -391.8
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "17",
+                "provcode": "17040",
+                "regcode_9": "17",
+                "provcode_9": "1740",
+                "name": "MARINDUQUE",
+                "old_names": "",
+                "incomeclass": "4th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1824,
+                            -1690
+                        ],
+                        [
+                            1824.5,
+                            -1690
+                        ],
+                        [
+                            1824.5,
+                            -1689.5
+                        ],
+                        [
+                            1824,
+                            -1689.5
+                        ],
+                        [
+                            1824,
+                            -1690
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "17",
+                "provcode": "17051",
+                "regcode_9": "17",
+                "provcode_9": "1751",
+                "name": "OCCIDENTAL MINDORO",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1825.1000000000001,
+                            -1691.1000000000001
+                        ],
+                        [
+                            1825.6000000000001,
+                            -1691.1000000000001
+                        ],
+                        [
+                            1825.6000000000001,
+                            -1690.6000000000001
+                        ],
+                        [
+                            1825.1000000000001,
+                            -1690.6000000000001
+                        ],
+                        [
+                            1825.1000000000001,
+                            -1691.1000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "17",
+                "provcode": "17052",
+                "regcode_9": "17",
+                "provcode_9": "1752",
+                "name": "ORIENTAL MINDORO",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1825.2,
+                            -1691.2
+                        ],
+                        [
+                            1825.7,
+                            -1691.2
+                        ],
+                        [
+                            1825.7,
+                            -1690.7
+                        ],
+                        [
+                            1825.2,
+                            -1690.7
+                        ],
+                        [
+                            1825.2,
+                            -1691.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "17",
+                "provcode": "17053",
+                "regcode_9": "17",
+                "provcode_9": "1753",
+                "name": "PALAWAN",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1825.3000000000002,
+                            -1691.3000000000002
+                        ],
+                        [
+                            1825.8000000000002,
+                            -1691.3000000000002
+                        ],
+                        [
+                            1825.8000000000002,
+                            -1690.8000000000002
+                        ],
+                        [
+                            1825.3000000000002,
+                            -1690.8000000000002
+                        ],
+                        [
+                            1825.3000000000002,
+                            -1691.3000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "17",
+                "provcode": "17059",
+                "regcode_9": "17",
+                "provcode_9": "1759",
+                "name": "ROMBLON",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1825.9,
+                            -1691.9
+                        ],
+                        [
+                            1826.4,
+                            -1691.9
+                        ],
+                        [
+                            1826.4,
+                            -1691.4
+                        ],
+                        [
+                            1825.9,
+                            -1691.4
+                        ],
+                        [
+                            1825.9,
+                            -1691.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "5",
+                "provcode": "5005",
+                "regcode_9": "5",
+                "provcode_9": "505",
+                "name": "ALBAY",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            620.5,
+                            -486.5
+                        ],
+                        [
+                            621,
+                            -486.5
+                        ],
+                        [
+                            621,
+                            -486
+                        ],
+                        [
+                            620.5,
+                            -486
+                        ],
+                        [
+                            620.5,
+                            -486.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "5",
+                "provcode": "5016",
+                "regcode_9": "5",
+                "provcode_9": "516",
+                "name": "CAMARINES NORTE",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            621.6,
+                            -487.6
+                        ],
+                        [
+                            622.1,
+                            -487.6
+                        ],
+                        [
+                            622.1,
+                            -487.1
+                        ],
+                        [
+                            621.6,
+                            -487.1
+                        ],
+                        [
+                            621.6,
+                            -487.6
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "5",
+                "provcode": "5017",
+                "regcode_9": "5",
+                "provcode_9": "517",
+                "name": "CAMARINES SUR",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            621.7,
+                            -487.70000000000005
+                        ],
+                        [
+                            622.2,
+                            -487.70000000000005
+                        ],
+                        [
+                            622.2,
+                            -487.20000000000005
+                        ],
+                        [
+                            621.7,
+                            -487.20000000000005
+                        ],
+                        [
+                            621.7,
+                            -487.70000000000005
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "5",
+                "provcode": "5020",
+                "regcode_9": "5",
+                "provcode_9": "520",
+                "name": "CATANDUANES",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            622,
+                            -488
+                        ],
+                        [
+                            622.5,
+                            -488
+                        ],
+                        [
+                            622.5,
+                            -487.5
+                        ],
+                        [
+                            622,
+                            -487.5
+                        ],
+                        [
+                            622,
+                            -488
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "5",
+                "provcode": "5041",
+                "regcode_9": "5",
+                "provcode_9": "541",
+                "name": "MASBATE",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            624.1,
+                            -490.1
+                        ],
+                        [
+                            624.6,
+                            -490.1
+                        ],
+                        [
+                            624.6,
+                            -489.6
+                        ],
+                        [
+                            624.1,
+                            -489.6
+                        ],
+                        [
+                            624.1,
+                            -490.1
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "5",
+                "provcode": "5062",
+                "regcode_9": "5",
+                "provcode_9": "562",
+                "name": "SORSOGON",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            626.2,
+                            -492.20000000000005
+                        ],
+                        [
+                            626.7,
+                            -492.20000000000005
+                        ],
+                        [
+                            626.7,
+                            -491.70000000000005
+                        ],
+                        [
+                            626.2,
+                            -491.70000000000005
+                        ],
+                        [
+                            626.2,
+                            -492.20000000000005
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "6",
+                "provcode": "6004",
+                "regcode_9": "6",
+                "provcode_9": "604",
+                "name": "AKLAN",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            720.4,
+                            -586.4
+                        ],
+                        [
+                            720.9,
+                            -586.4
+                        ],
+                        [
+                            720.9,
+                            -585.9
+                        ],
+                        [
+                            720.4,
+                            -585.9
+                        ],
+                        [
+                            720.4,
+                            -586.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "6",
+                "provcode": "6006",
+                "regcode_9": "6",
+                "provcode_9": "606",
+                "name": "ANTIQUE",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            720.6,
+                            -586.6
+                        ],
+                        [
+                            721.1,
+                            -586.6
+                        ],
+                        [
+                            721.1,
+                            -586.1
+                        ],
+                        [
+                            720.6,
+                            -586.1
+                        ],
+                        [
+                            720.6,
+                            -586.6
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "6",
+                "provcode": "6019",
+                "regcode_9": "6",
+                "provcode_9": "619",
+                "name": "CAPIZ",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            721.9,
+                            -587.9
+                        ],
+                        [
+                            722.4,
+                            -587.9
+                        ],
+                        [
+                            722.4,
+                            -587.4
+                        ],
+                        [
+                            721.9,
+                            -587.4
+                        ],
+                        [
+                            721.9,
+                            -587.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "6",
+                "provcode": "6030",
+                "regcode_9": "6",
+                "provcode_9": "630",
+                "name": "ILOILO",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            723,
+                            -589
+                        ],
+                        [
+                            723.5,
+                            -589
+                        ],
+                        [
+                            723.5,
+                            -588.5
+                        ],
+                        [
+                            723,
+                            -588.5
+                        ],
+                        [
+                            723,
+                            -589
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "6",
+                "provcode": "6079",
+                "regcode_9": "6",
+                "provcode_9": "679",
+                "name": "GUIMARAS",
+                "old_names": "",
+                "incomeclass": "4th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            727.9,
+                            -593.9
+                        ],
+                        [
+                            728.4,
+                            -593.9
+                        ],
+                        [
+                            728.4,
+                            -593.4
+                        ],
+                        [
+                            727.9,
+                            -593.4
+                        ],
+                        [
+                            727.9,
+                            -593.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "7",
+                "provcode": "7012",
+                "regcode_9": "7",
+                "provcode_9": "712",
+                "name": "BOHOL",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            821.2,
+                            -687.2
+                        ],
+                        [
+                            821.7,
+                            -687.2
+                        ],
+                        [
+                            821.7,
+                            -686.7
+                        ],
+                        [
+                            821.2,
+                            -686.7
+                        ],
+                        [
+                            821.2,
+                            -687.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "7",
+                "provcode": "7022",
+                "regcode_9": "7",
+                "provcode_9": "722",
+                "name": "CEBU",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            822.2,
+                            -688.2
+                        ],
+                        [
+                            822.7,
+                            -688.2
+                        ],
+                        [
+                            822.7,
+                            -687.7
+                        ],
+                        [
+                            822.2,
+                            -687.7
+                        ],
+                        [
+                            822.2,
+                            -688.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "provcode": "8026",
+                "regcode_9": "8",
+                "provcode_9": "826",
+                "name": "EASTERN SAMAR",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            922.6,
+                            -788.6
+                        ],
+                        [
+                            923.1,
+                            -788.6
+                        ],
+                        [
+                            923.1,
+                            -788.1
+                        ],
+                        [
+                            922.6,
+                            -788.1
+                        ],
+                        [
+                            922.6,
+                            -788.6
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "provcode": "8037",
+                "regcode_9": "8",
+                "provcode_9": "837",
+                "name": "LEYTE",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            923.7,
+                            -789.7
+                        ],
+                        [
+                            924.2,
+                            -789.7
+                        ],
+                        [
+                            924.2,
+                            -789.2
+                        ],
+                        [
+                            923.7,
+                            -789.2
+                        ],
+                        [
+                            923.7,
+                            -789.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "provcode": "8048",
+                "regcode_9": "8",
+                "provcode_9": "848",
+                "name": "NORTHERN SAMAR",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            924.8000000000001,
+                            -790.8000000000001
+                        ],
+                        [
+                            925.3000000000001,
+                            -790.8000000000001
+                        ],
+                        [
+                            925.3000000000001,
+                            -790.3000000000001
+                        ],
+                        [
+                            924.8000000000001,
+                            -790.3000000000001
+                        ],
+                        [
+                            924.8000000000001,
+                            -790.8000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "provcode": "8060",
+                "regcode_9": "8",
+                "provcode_9": "860",
+                "name": "SAMAR",
+                "old_names": "Western Samar",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            926,
+                            -792
+                        ],
+                        [
+                            926.5,
+                            -792
+                        ],
+                        [
+                            926.5,
+                            -791.5
+                        ],
+                        [
+                            926,
+                            -791.5
+                        ],
+                        [
+                            926,
+                            -792
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "provcode": "8064",
+                "regcode_9": "8",
+                "provcode_9": "864",
+                "name": "SOUTHERN LEYTE",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            926.4000000000001,
+                            -792.4000000000001
+                        ],
+                        [
+                            926.9000000000001,
+                            -792.4000000000001
+                        ],
+                        [
+                            926.9000000000001,
+                            -791.9000000000001
+                        ],
+                        [
+                            926.4000000000001,
+                            -791.9000000000001
+                        ],
+                        [
+                            926.4000000000001,
+                            -792.4000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "provcode": "8078",
+                "regcode_9": "8",
+                "provcode_9": "878",
+                "name": "BILIRAN",
+                "old_names": "",
+                "incomeclass": "4th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            927.8000000000001,
+                            -793.8000000000001
+                        ],
+                        [
+                            928.3000000000001,
+                            -793.8000000000001
+                        ],
+                        [
+                            928.3000000000001,
+                            -793.3000000000001
+                        ],
+                        [
+                            927.8000000000001,
+                            -793.3000000000001
+                        ],
+                        [
+                            927.8000000000001,
+                            -793.8000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "9",
+                "provcode": "9072",
+                "regcode_9": "9",
+                "provcode_9": "972",
+                "name": "ZAMBOANGA DEL NORTE",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1027.2,
+                            -893.2
+                        ],
+                        [
+                            1027.7,
+                            -893.2
+                        ],
+                        [
+                            1027.7,
+                            -892.7
+                        ],
+                        [
+                            1027.2,
+                            -892.7
+                        ],
+                        [
+                            1027.2,
+                            -893.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "9",
+                "provcode": "9073",
+                "regcode_9": "9",
+                "provcode_9": "973",
+                "name": "ZAMBOANGA DEL SUR",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1027.3000000000002,
+                            -893.3000000000001
+                        ],
+                        [
+                            1027.8000000000002,
+                            -893.3000000000001
+                        ],
+                        [
+                            1027.8000000000002,
+                            -892.8000000000001
+                        ],
+                        [
+                            1027.3000000000002,
+                            -892.8000000000001
+                        ],
+                        [
+                            1027.3000000000002,
+                            -893.3000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "9",
+                "provcode": "9083",
+                "regcode_9": "9",
+                "provcode_9": "983",
+                "name": "ZAMBOANGA SIBUGAY",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1028.3000000000002,
+                            -894.3000000000001
+                        ],
+                        [
+                            1028.8000000000002,
+                            -894.3000000000001
+                        ],
+                        [
+                            1028.8000000000002,
+                            -893.8000000000001
+                        ],
+                        [
+                            1028.3000000000002,
+                            -893.8000000000001
+                        ],
+                        [
+                            1028.3000000000002,
+                            -894.3000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "9",
+                "provcode": "9901",
+                "regcode_9": "9",
+                "provcode_9": "997",
+                "name": "CITY OF ISABELA (NOT A PROVINCE) (HUC)",
+                "old_names": "",
+                "incomeclass": "",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1110.1,
+                            -976.1
+                        ],
+                        [
+                            1110.6,
+                            -976.1
+                        ],
+                        [
+                            1110.6,
+                            -975.6
+                        ],
+                        [
+                            1110.1,
+                            -975.6
+                        ],
+                        [
+                            1110.1,
+                            -976.1
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "provcode": "10013",
+                "regcode_9": "10",
+                "provcode_9": "1013",
+                "name": "BUKIDNON",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1121.3000000000002,
+                            -987.3000000000001
+                        ],
+                        [
+                            1121.8000000000002,
+                            -987.3000000000001
+                        ],
+                        [
+                            1121.8000000000002,
+                            -986.8000000000001
+                        ],
+                        [
+                            1121.3000000000002,
+                            -986.8000000000001
+                        ],
+                        [
+                            1121.3000000000002,
+                            -987.3000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "provcode": "10018",
+                "regcode_9": "10",
+                "provcode_9": "1018",
+                "name": "CAMIGUIN",
+                "old_names": "",
+                "incomeclass": "5th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1121.8000000000002,
+                            -987.8000000000001
+                        ],
+                        [
+                            1122.3000000000002,
+                            -987.8000000000001
+                        ],
+                        [
+                            1122.3000000000002,
+                            -987.3000000000001
+                        ],
+                        [
+                            1121.8000000000002,
+                            -987.3000000000001
+                        ],
+                        [
+                            1121.8000000000002,
+                            -987.8000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "provcode": "10035",
+                "regcode_9": "10",
+                "provcode_9": "1035",
+                "name": "LANAO DEL NORTE",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1123.5,
+                            -989.5
+                        ],
+                        [
+                            1124,
+                            -989.5
+                        ],
+                        [
+                            1124,
+                            -989
+                        ],
+                        [
+                            1123.5,
+                            -989
+                        ],
+                        [
+                            1123.5,
+                            -989.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "provcode": "10042",
+                "regcode_9": "10",
+                "provcode_9": "1042",
+                "name": "MISAMIS OCCIDENTAL",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1124.2,
+                            -990.2
+                        ],
+                        [
+                            1124.7,
+                            -990.2
+                        ],
+                        [
+                            1124.7,
+                            -989.7
+                        ],
+                        [
+                            1124.2,
+                            -989.7
+                        ],
+                        [
+                            1124.2,
+                            -990.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "provcode": "10043",
+                "regcode_9": "10",
+                "provcode_9": "1043",
+                "name": "MISAMIS ORIENTAL",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1124.3000000000002,
+                            -990.3000000000001
+                        ],
+                        [
+                            1124.8000000000002,
+                            -990.3000000000001
+                        ],
+                        [
+                            1124.8000000000002,
+                            -989.8000000000001
+                        ],
+                        [
+                            1124.3000000000002,
+                            -989.8000000000001
+                        ],
+                        [
+                            1124.3000000000002,
+                            -990.3000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "11",
+                "provcode": "11023",
+                "regcode_9": "11",
+                "provcode_9": "1123",
+                "name": "DAVAO DEL NORTE",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1222.3,
+                            -1088.3
+                        ],
+                        [
+                            1222.8,
+                            -1088.3
+                        ],
+                        [
+                            1222.8,
+                            -1087.8
+                        ],
+                        [
+                            1222.3,
+                            -1087.8
+                        ],
+                        [
+                            1222.3,
+                            -1088.3
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "11",
+                "provcode": "11024",
+                "regcode_9": "11",
+                "provcode_9": "1124",
+                "name": "DAVAO DEL SUR",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1222.4,
+                            -1088.4
+                        ],
+                        [
+                            1222.9,
+                            -1088.4
+                        ],
+                        [
+                            1222.9,
+                            -1087.9
+                        ],
+                        [
+                            1222.4,
+                            -1087.9
+                        ],
+                        [
+                            1222.4,
+                            -1088.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "11",
+                "provcode": "11025",
+                "regcode_9": "11",
+                "provcode_9": "1125",
+                "name": "DAVAO ORIENTAL",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1222.5,
+                            -1088.5
+                        ],
+                        [
+                            1223,
+                            -1088.5
+                        ],
+                        [
+                            1223,
+                            -1088
+                        ],
+                        [
+                            1222.5,
+                            -1088
+                        ],
+                        [
+                            1222.5,
+                            -1088.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "11",
+                "provcode": "11082",
+                "regcode_9": "11",
+                "provcode_9": "1182",
+                "name": "DAVAO DE ORO",
+                "old_names": "Compostela Valley",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1228.2,
+                            -1094.2
+                        ],
+                        [
+                            1228.7,
+                            -1094.2
+                        ],
+                        [
+                            1228.7,
+                            -1093.7
+                        ],
+                        [
+                            1228.2,
+                            -1093.7
+                        ],
+                        [
+                            1228.2,
+                            -1094.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "11",
+                "provcode": "11086",
+                "regcode_9": "11",
+                "provcode_9": "1186",
+                "name": "DAVAO OCCIDENTAL",
+                "old_names": "",
+                "incomeclass": "4th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1228.6000000000001,
+                            -1094.6000000000001
+                        ],
+                        [
+                            1229.1000000000001,
+                            -1094.6000000000001
+                        ],
+                        [
+                            1229.1000000000001,
+                            -1094.1000000000001
+                        ],
+                        [
+                            1228.6000000000001,
+                            -1094.1000000000001
+                        ],
+                        [
+                            1228.6000000000001,
+                            -1094.6000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "12",
+                "provcode": "12047",
+                "regcode_9": "12",
+                "provcode_9": "1247",
+                "name": "COTABATO",
+                "old_names": "North Cotabato",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1324.7,
+                            -1190.7
+                        ],
+                        [
+                            1325.2,
+                            -1190.7
+                        ],
+                        [
+                            1325.2,
+                            -1190.2
+                        ],
+                        [
+                            1324.7,
+                            -1190.2
+                        ],
+                        [
+                            1324.7,
+                            -1190.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "12",
+                "provcode": "12063",
+                "regcode_9": "12",
+                "provcode_9": "1263",
+                "name": "SOUTH COTABATO",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1326.3,
+                            -1192.3
+                        ],
+                        [
+                            1326.8,
+                            -1192.3
+                        ],
+                        [
+                            1326.8,
+                            -1191.8
+                        ],
+                        [
+                            1326.3,
+                            -1191.8
+                        ],
+                        [
+                            1326.3,
+                            -1192.3
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "12",
+                "provcode": "12065",
+                "regcode_9": "12",
+                "provcode_9": "1265",
+                "name": "SULTAN KUDARAT",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1326.5,
+                            -1192.5
+                        ],
+                        [
+                            1327,
+                            -1192.5
+                        ],
+                        [
+                            1327,
+                            -1192
+                        ],
+                        [
+                            1326.5,
+                            -1192
+                        ],
+                        [
+                            1326.5,
+                            -1192.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "12",
+                "provcode": "12080",
+                "regcode_9": "12",
+                "provcode_9": "1280",
+                "name": "SARANGANI",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1328,
+                            -1194
+                        ],
+                        [
+                            1328.5,
+                            -1194
+                        ],
+                        [
+                            1328.5,
+                            -1193.5
+                        ],
+                        [
+                            1328,
+                            -1193.5
+                        ],
+                        [
+                            1328,
+                            -1194
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13806",
+                "regcode_9": "13",
+                "provcode_9": "1339",
+                "name": "CITY OF MANILA (HUC)",
+                "old_names": "",
+                "incomeclass": "",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.6000000000001,
+                            -1366.6000000000001
+                        ],
+                        [
+                            1501.1000000000001,
+                            -1366.6000000000001
+                        ],
+                        [
+                            1501.1000000000001,
+                            -1366.1000000000001
+                        ],
+                        [
+                            1500.6000000000001,
+                            -1366.1000000000001
+                        ],
+                        [
+                            1500.6000000000001,
+                            -1366.6000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "provcode": "14001",
+                "regcode_9": "14",
+                "provcode_9": "1401",
+                "name": "ABRA",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1520.1000000000001,
+                            -1386.1000000000001
+                        ],
+                        [
+                            1520.6000000000001,
+                            -1386.1000000000001
+                        ],
+                        [
+                            1520.6000000000001,
+                            -1385.6000000000001
+                        ],
+                        [
+                            1520.1000000000001,
+                            -1385.6000000000001
+                        ],
+                        [
+                            1520.1000000000001,
+                            -1386.1000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "provcode": "14011",
+                "regcode_9": "14",
+                "provcode_9": "1411",
+                "name": "BENGUET",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1521.1000000000001,
+                            -1387.1000000000001
+                        ],
+                        [
+                            1521.6000000000001,
+                            -1387.1000000000001
+                        ],
+                        [
+                            1521.6000000000001,
+                            -1386.6000000000001
+                        ],
+                        [
+                            1521.1000000000001,
+                            -1386.6000000000001
+                        ],
+                        [
+                            1521.1000000000001,
+                            -1387.1000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "provcode": "14027",
+                "regcode_9": "14",
+                "provcode_9": "1427",
+                "name": "IFUGAO",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1522.7,
+                            -1388.7
+                        ],
+                        [
+                            1523.2,
+                            -1388.7
+                        ],
+                        [
+                            1523.2,
+                            -1388.2
+                        ],
+                        [
+                            1522.7,
+                            -1388.2
+                        ],
+                        [
+                            1522.7,
+                            -1388.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "provcode": "14032",
+                "regcode_9": "14",
+                "provcode_9": "1432",
+                "name": "KALINGA",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1523.2,
+                            -1389.2
+                        ],
+                        [
+                            1523.7,
+                            -1389.2
+                        ],
+                        [
+                            1523.7,
+                            -1388.7
+                        ],
+                        [
+                            1523.2,
+                            -1388.7
+                        ],
+                        [
+                            1523.2,
+                            -1389.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "provcode": "14044",
+                "regcode_9": "14",
+                "provcode_9": "1444",
+                "name": "MOUNTAIN PROVINCE",
+                "old_names": "",
+                "incomeclass": "4th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1524.4,
+                            -1390.4
+                        ],
+                        [
+                            1524.9,
+                            -1390.4
+                        ],
+                        [
+                            1524.9,
+                            -1389.9
+                        ],
+                        [
+                            1524.4,
+                            -1389.9
+                        ],
+                        [
+                            1524.4,
+                            -1390.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "provcode": "14081",
+                "regcode_9": "14",
+                "provcode_9": "1481",
+                "name": "APAYAO",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1528.1000000000001,
+                            -1394.1000000000001
+                        ],
+                        [
+                            1528.6000000000001,
+                            -1394.1000000000001
+                        ],
+                        [
+                            1528.6000000000001,
+                            -1393.6000000000001
+                        ],
+                        [
+                            1528.1000000000001,
+                            -1393.6000000000001
+                        ],
+                        [
+                            1528.1000000000001,
+                            -1394.1000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "16",
+                "provcode": "16002",
+                "regcode_9": "16",
+                "provcode_9": "1602",
+                "name": "AGUSAN DEL NORTE",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1720.2,
+                            -1586.2
+                        ],
+                        [
+                            1720.7,
+                            -1586.2
+                        ],
+                        [
+                            1720.7,
+                            -1585.7
+                        ],
+                        [
+                            1720.2,
+                            -1585.7
+                        ],
+                        [
+                            1720.2,
+                            -1586.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "16",
+                "provcode": "16003",
+                "regcode_9": "16",
+                "provcode_9": "1603",
+                "name": "AGUSAN DEL SUR",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1720.3000000000002,
+                            -1586.3000000000002
+                        ],
+                        [
+                            1720.8000000000002,
+                            -1586.3000000000002
+                        ],
+                        [
+                            1720.8000000000002,
+                            -1585.8000000000002
+                        ],
+                        [
+                            1720.3000000000002,
+                            -1585.8000000000002
+                        ],
+                        [
+                            1720.3000000000002,
+                            -1586.3000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "16",
+                "provcode": "16067",
+                "regcode_9": "16",
+                "provcode_9": "1667",
+                "name": "SURIGAO DEL NORTE",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1726.7,
+                            -1592.7
+                        ],
+                        [
+                            1727.2,
+                            -1592.7
+                        ],
+                        [
+                            1727.2,
+                            -1592.2
+                        ],
+                        [
+                            1726.7,
+                            -1592.2
+                        ],
+                        [
+                            1726.7,
+                            -1592.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "16",
+                "provcode": "16068",
+                "regcode_9": "16",
+                "provcode_9": "1668",
+                "name": "SURIGAO DEL SUR",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1726.8000000000002,
+                            -1592.8000000000002
+                        ],
+                        [
+                            1727.3000000000002,
+                            -1592.8000000000002
+                        ],
+                        [
+                            1727.3000000000002,
+                            -1592.3000000000002
+                        ],
+                        [
+                            1726.8000000000002,
+                            -1592.3000000000002
+                        ],
+                        [
+                            1726.8000000000002,
+                            -1592.8000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "16",
+                "provcode": "16085",
+                "regcode_9": "16",
+                "provcode_9": "1685",
+                "name": "DINAGAT ISLANDS",
+                "old_names": "",
+                "incomeclass": "4th",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1728.5,
+                            -1594.5
+                        ],
+                        [
+                            1729,
+                            -1594.5
+                        ],
+                        [
+                            1729,
+                            -1594
+                        ],
+                        [
+                            1728.5,
+                            -1594
+                        ],
+                        [
+                            1728.5,
+                            -1594.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "provcode": "19007",
+                "regcode_9": "15",
+                "provcode_9": "1507",
+                "name": "BASILAN",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2020.7,
+                            -1886.7
+                        ],
+                        [
+                            2021.2,
+                            -1886.7
+                        ],
+                        [
+                            2021.2,
+                            -1886.2
+                        ],
+                        [
+                            2020.7,
+                            -1886.2
+                        ],
+                        [
+                            2020.7,
+                            -1886.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "provcode": "19036",
+                "regcode_9": "15",
+                "provcode_9": "1536",
+                "name": "LANAO DEL SUR",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2023.6000000000001,
+                            -1889.6000000000001
+                        ],
+                        [
+                            2024.1000000000001,
+                            -1889.6000000000001
+                        ],
+                        [
+                            2024.1000000000001,
+                            -1889.1000000000001
+                        ],
+                        [
+                            2023.6000000000001,
+                            -1889.1000000000001
+                        ],
+                        [
+                            2023.6000000000001,
+                            -1889.6000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "provcode": "19066",
+                "regcode_9": "15",
+                "provcode_9": "1566",
+                "name": "SULU",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2026.6000000000001,
+                            -1892.6000000000001
+                        ],
+                        [
+                            2027.1000000000001,
+                            -1892.6000000000001
+                        ],
+                        [
+                            2027.1000000000001,
+                            -1892.1000000000001
+                        ],
+                        [
+                            2026.6000000000001,
+                            -1892.1000000000001
+                        ],
+                        [
+                            2026.6000000000001,
+                            -1892.6000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "provcode": "19070",
+                "regcode_9": "15",
+                "provcode_9": "1570",
+                "name": "TAWI-TAWI",
+                "old_names": "",
+                "incomeclass": "3rd",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2027,
+                            -1893
+                        ],
+                        [
+                            2027.5,
+                            -1893
+                        ],
+                        [
+                            2027.5,
+                            -1892.5
+                        ],
+                        [
+                            2027,
+                            -1892.5
+                        ],
+                        [
+                            2027,
+                            -1893
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "provcode": "19999",
+                "regcode_9": "",
+                "provcode_9": "",
+                "name": "SPECIAL GEOGRAPHIC AREA (SGA)",
+                "old_names": "INTERIM PROVINCE CODE FOR 63 BARANGAYS OF BARMM BASED ON PSA BOARD RESOLUTION NO. 13 SERIES OF 2021",
+                "incomeclass": "",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2119.9,
+                            -1985.9
+                        ],
+                        [
+                            2120.4,
+                            -1985.9
+                        ],
+                        [
+                            2120.4,
+                            -1985.4
+                        ],
+                        [
+                            2119.9,
+                            -1985.4
+                        ],
+                        [
+                            2119.9,
+                            -1985.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "provcode": "19087",
+                "regcode_9": "",
+                "provcode_9": "",
+                "name": "MAGUINDANAO DEL NORTE",
+                "old_names": "",
+                "incomeclass": "",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2028.7,
+                            -1894.7
+                        ],
+                        [
+                            2029.2,
+                            -1894.7
+                        ],
+                        [
+                            2029.2,
+                            -1894.2
+                        ],
+                        [
+                            2028.7,
+                            -1894.2
+                        ],
+                        [
+                            2028.7,
+                            -1894.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "provcode": "19088",
+                "regcode_9": "",
+                "provcode_9": "",
+                "name": "MAGUINDANAO DEL SUR",
+                "old_names": "",
+                "incomeclass": "",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2028.8000000000002,
+                            -1894.8000000000002
+                        ],
+                        [
+                            2029.3000000000002,
+                            -1894.8000000000002
+                        ],
+                        [
+                            2029.3000000000002,
+                            -1894.3000000000002
+                        ],
+                        [
+                            2028.8000000000002,
+                            -1894.3000000000002
+                        ],
+                        [
+                            2028.8000000000002,
+                            -1894.8000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "18",
+                "provcode": "18045",
+                "regcode_9": "6",
+                "provcode_9": "645",
+                "name": "NEGROS OCCIDENTAL",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1924.5,
+                            -1790.5
+                        ],
+                        [
+                            1925,
+                            -1790.5
+                        ],
+                        [
+                            1925,
+                            -1790
+                        ],
+                        [
+                            1924.5,
+                            -1790
+                        ],
+                        [
+                            1924.5,
+                            -1790.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "18",
+                "provcode": "18046",
+                "regcode_9": "7",
+                "provcode_9": "746",
+                "name": "NEGROS ORIENTAL",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1924.6000000000001,
+                            -1790.6000000000001
+                        ],
+                        [
+                            1925.1000000000001,
+                            -1790.6000000000001
+                        ],
+                        [
+                            1925.1000000000001,
+                            -1790.1000000000001
+                        ],
+                        [
+                            1924.6000000000001,
+                            -1790.1000000000001
+                        ],
+                        [
+                            1924.6000000000001,
+                            -1790.6000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "18",
+                "provcode": "18061",
+                "regcode_9": "7",
+                "provcode_9": "761",
+                "name": "SIQUIJOR",
+                "old_names": "",
+                "incomeclass": "5th",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1926.1000000000001,
+                            -1792.1000000000001
+                        ],
+                        [
+                            1926.6000000000001,
+                            -1792.1000000000001
+                        ],
+                        [
+                            1926.6000000000001,
+                            -1791.6000000000001
+                        ],
+                        [
+                            1926.1000000000001,
+                            -1791.6000000000001
+                        ],
+                        [
+                            1926.1000000000001,
+                            -1792.1000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13801",
+                "regcode_9": "13",
+                "provcode_9": "1375",
+                "name": "CITY OF CALOOCAN (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.1000000000001,
+                            -1366.1000000000001
+                        ],
+                        [
+                            1500.6000000000001,
+                            -1366.1000000000001
+                        ],
+                        [
+                            1500.6000000000001,
+                            -1365.6000000000001
+                        ],
+                        [
+                            1500.1000000000001,
+                            -1365.6000000000001
+                        ],
+                        [
+                            1500.1000000000001,
+                            -1366.1000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13802",
+                "regcode_9": "13",
+                "provcode_9": "1376",
+                "name": "CITY OF LAS PI\u00d1AS (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.2,
+                            -1366.2
+                        ],
+                        [
+                            1500.7,
+                            -1366.2
+                        ],
+                        [
+                            1500.7,
+                            -1365.7
+                        ],
+                        [
+                            1500.2,
+                            -1365.7
+                        ],
+                        [
+                            1500.2,
+                            -1366.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13803",
+                "regcode_9": "13",
+                "provcode_9": "1376",
+                "name": "CITY OF MAKATI (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.3000000000002,
+                            -1366.3000000000002
+                        ],
+                        [
+                            1500.8000000000002,
+                            -1366.3000000000002
+                        ],
+                        [
+                            1500.8000000000002,
+                            -1365.8000000000002
+                        ],
+                        [
+                            1500.3000000000002,
+                            -1365.8000000000002
+                        ],
+                        [
+                            1500.3000000000002,
+                            -1366.3000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13804",
+                "regcode_9": "13",
+                "provcode_9": "1375",
+                "name": "CITY OF MALABON (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.4,
+                            -1366.4
+                        ],
+                        [
+                            1500.9,
+                            -1366.4
+                        ],
+                        [
+                            1500.9,
+                            -1365.9
+                        ],
+                        [
+                            1500.4,
+                            -1365.9
+                        ],
+                        [
+                            1500.4,
+                            -1366.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13805",
+                "regcode_9": "13",
+                "provcode_9": "1374",
+                "name": "CITY OF MANDALUYONG (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.5,
+                            -1366.5
+                        ],
+                        [
+                            1501,
+                            -1366.5
+                        ],
+                        [
+                            1501,
+                            -1366
+                        ],
+                        [
+                            1500.5,
+                            -1366
+                        ],
+                        [
+                            1500.5,
+                            -1366.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13807",
+                "regcode_9": "13",
+                "provcode_9": "1374",
+                "name": "CITY OF MARIKINA (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.7,
+                            -1366.7
+                        ],
+                        [
+                            1501.2,
+                            -1366.7
+                        ],
+                        [
+                            1501.2,
+                            -1366.2
+                        ],
+                        [
+                            1500.7,
+                            -1366.2
+                        ],
+                        [
+                            1500.7,
+                            -1366.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13808",
+                "regcode_9": "13",
+                "provcode_9": "1376",
+                "name": "CITY OF MUNTINLUPA (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.8000000000002,
+                            -1366.8000000000002
+                        ],
+                        [
+                            1501.3000000000002,
+                            -1366.8000000000002
+                        ],
+                        [
+                            1501.3000000000002,
+                            -1366.3000000000002
+                        ],
+                        [
+                            1500.8000000000002,
+                            -1366.3000000000002
+                        ],
+                        [
+                            1500.8000000000002,
+                            -1366.8000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13809",
+                "regcode_9": "13",
+                "provcode_9": "1375",
+                "name": "CITY OF NAVOTAS (HUC)",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1500.9,
+                            -1366.9
+                        ],
+                        [
+                            1501.4,
+                            -1366.9
+                        ],
+                        [
+                            1501.4,
+                            -1366.4
+                        ],
+                        [
+                            1500.9,
+                            -1366.4
+                        ],
+                        [
+                            1500.9,
+                            -1366.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13810",
+                "regcode_9": "13",
+                "provcode_9": "1376",
+                "name": "CITY OF PARA\u00d1AQUE (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501,
+                            -1367
+                        ],
+                        [
+                            1501.5,
+                            -1367
+                        ],
+                        [
+                            1501.5,
+                            -1366.5
+                        ],
+                        [
+                            1501,
+                            -1366.5
+                        ],
+                        [
+                            1501,
+                            -1367
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13811",
+                "regcode_9": "13",
+                "provcode_9": "1376",
+                "name": "PASAY CITY (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501.1000000000001,
+                            -1367.1000000000001
+                        ],
+                        [
+                            1501.6000000000001,
+                            -1367.1000000000001
+                        ],
+                        [
+                            1501.6000000000001,
+                            -1366.6000000000001
+                        ],
+                        [
+                            1501.1000000000001,
+                            -1366.6000000000001
+                        ],
+                        [
+                            1501.1000000000001,
+                            -1367.1000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13812",
+                "regcode_9": "13",
+                "provcode_9": "1374",
+                "name": "CITY OF PASIG (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501.2,
+                            -1367.2
+                        ],
+                        [
+                            1501.7,
+                            -1367.2
+                        ],
+                        [
+                            1501.7,
+                            -1366.7
+                        ],
+                        [
+                            1501.2,
+                            -1366.7
+                        ],
+                        [
+                            1501.2,
+                            -1367.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13813",
+                "regcode_9": "13",
+                "provcode_9": "1374",
+                "name": "QUEZON CITY (HUC)",
+                "old_names": "",
+                "incomeclass": "Special",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501.3000000000002,
+                            -1367.3000000000002
+                        ],
+                        [
+                            1501.8000000000002,
+                            -1367.3000000000002
+                        ],
+                        [
+                            1501.8000000000002,
+                            -1366.8000000000002
+                        ],
+                        [
+                            1501.3000000000002,
+                            -1366.8000000000002
+                        ],
+                        [
+                            1501.3000000000002,
+                            -1367.3000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13814",
+                "regcode_9": "13",
+                "provcode_9": "1374",
+                "name": "CITY OF SAN JUAN (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501.4,
+                            -1367.4
+                        ],
+                        [
+                            1501.9,
+                            -1367.4
+                        ],
+                        [
+                            1501.9,
+                            -1366.9
+                        ],
+                        [
+                            1501.4,
+                            -1366.9
+                        ],
+                        [
+                            1501.4,
+                            -1367.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13815",
+                "regcode_9": "13",
+                "provcode_9": "1376",
+                "name": "CITY OF TAGUIG (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501.5,
+                            -1367.5
+                        ],
+                        [
+                            1502,
+                            -1367.5
+                        ],
+                        [
+                            1502,
+                            -1367
+                        ],
+                        [
+                            1501.5,
+                            -1367
+                        ],
+                        [
+                            1501.5,
+                            -1367.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13816",
+                "regcode_9": "13",
+                "provcode_9": "1375",
+                "name": "CITY OF VALENZUELA (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501.6000000000001,
+                            -1367.6000000000001
+                        ],
+                        [
+                            1502.1000000000001,
+                            -1367.6000000000001
+                        ],
+                        [
+                            1502.1000000000001,
+                            -1367.1000000000001
+                        ],
+                        [
+                            1501.6000000000001,
+                            -1367.1000000000001
+                        ],
+                        [
+                            1501.6000000000001,
+                            -1367.6000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "provcode": "14303",
+                "regcode_9": "14",
+                "provcode_9": "1411",
+                "name": "CITY OF BAGUIO (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1550.3000000000002,
+                            -1416.3000000000002
+                        ],
+                        [
+                            1550.8000000000002,
+                            -1416.3000000000002
+                        ],
+                        [
+                            1550.8000000000002,
+                            -1415.8000000000002
+                        ],
+                        [
+                            1550.3000000000002,
+                            -1415.8000000000002
+                        ],
+                        [
+                            1550.3000000000002,
+                            -1416.3000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3301",
+                "regcode_9": "3",
+                "provcode_9": "354",
+                "name": "CITY OF ANGELES (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            450.1,
+                            -316.1
+                        ],
+                        [
+                            450.6,
+                            -316.1
+                        ],
+                        [
+                            450.6,
+                            -315.6
+                        ],
+                        [
+                            450.1,
+                            -315.6
+                        ],
+                        [
+                            450.1,
+                            -316.1
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "provcode": "3314",
+                "regcode_9": "3",
+                "provcode_9": "371",
+                "name": "CITY OF OLONGAPO (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            451.40000000000003,
+                            -317.40000000000003
+                        ],
+                        [
+                            451.90000000000003,
+                            -317.40000000000003
+                        ],
+                        [
+                            451.90000000000003,
+                            -316.90000000000003
+                        ],
+                        [
+                            451.40000000000003,
+                            -316.90000000000003
+                        ],
+                        [
+                            451.40000000000003,
+                            -317.40000000000003
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "4",
+                "provcode": "4312",
+                "regcode_9": "4",
+                "provcode_9": "456",
+                "name": "CITY OF LUCENA  (HUC)",
+                "old_names": "",
+                "incomeclass": "2nd",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            551.2,
+                            -417.20000000000005
+                        ],
+                        [
+                            551.7,
+                            -417.20000000000005
+                        ],
+                        [
+                            551.7,
+                            -416.70000000000005
+                        ],
+                        [
+                            551.2,
+                            -416.70000000000005
+                        ],
+                        [
+                            551.2,
+                            -417.20000000000005
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "17",
+                "provcode": "17315",
+                "regcode_9": "17",
+                "provcode_9": "1753",
+                "name": "CITY OF PUERTO PRINCESA  (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1851.5,
+                            -1717.5
+                        ],
+                        [
+                            1852,
+                            -1717.5
+                        ],
+                        [
+                            1852,
+                            -1717
+                        ],
+                        [
+                            1851.5,
+                            -1717
+                        ],
+                        [
+                            1851.5,
+                            -1717.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "6",
+                "provcode": "6310",
+                "regcode_9": "6",
+                "provcode_9": "630",
+                "name": "CITY OF ILOILO  (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            751,
+                            -617
+                        ],
+                        [
+                            751.5,
+                            -617
+                        ],
+                        [
+                            751.5,
+                            -616.5
+                        ],
+                        [
+                            751,
+                            -616.5
+                        ],
+                        [
+                            751,
+                            -617
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "18",
+                "provcode": "18302",
+                "regcode_9": "6",
+                "provcode_9": "645",
+                "name": "CITY OF BACOLOD  (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1950.2,
+                            -1816.2
+                        ],
+                        [
+                            1950.7,
+                            -1816.2
+                        ],
+                        [
+                            1950.7,
+                            -1815.7
+                        ],
+                        [
+                            1950.2,
+                            -1815.7
+                        ],
+                        [
+                            1950.2,
+                            -1816.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "7",
+                "provcode": "7306",
+                "regcode_9": "7",
+                "provcode_9": "722",
+                "name": "CITY OF CEBU  (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            850.6,
+                            -716.6
+                        ],
+                        [
+                            851.1,
+                            -716.6
+                        ],
+                        [
+                            851.1,
+                            -716.1
+                        ],
+                        [
+                            850.6,
+                            -716.1
+                        ],
+                        [
+                            850.6,
+                            -716.6
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "7",
+                "provcode": "7311",
+                "regcode_9": "7",
+                "provcode_9": "722",
+                "name": "CITY OF LAPU-LAPU (HUC)",
+                "old_names": "Opon",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            851.1,
+                            -717.1
+                        ],
+                        [
+                            851.6,
+                            -717.1
+                        ],
+                        [
+                            851.6,
+                            -716.6
+                        ],
+                        [
+                            851.1,
+                            -716.6
+                        ],
+                        [
+                            851.1,
+                            -717.1
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "7",
+                "provcode": "7313",
+                "regcode_9": "7",
+                "provcode_9": "722",
+                "name": "CITY OF MANDAUE (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            851.3000000000001,
+                            -717.3000000000001
+                        ],
+                        [
+                            851.8000000000001,
+                            -717.3000000000001
+                        ],
+                        [
+                            851.8000000000001,
+                            -716.8000000000001
+                        ],
+                        [
+                            851.3000000000001,
+                            -716.8000000000001
+                        ],
+                        [
+                            851.3000000000001,
+                            -717.3000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "provcode": "8316",
+                "regcode_9": "8",
+                "provcode_9": "837",
+                "name": "CITY OF TACLOBAN  (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            951.6,
+                            -817.6
+                        ],
+                        [
+                            952.1,
+                            -817.6
+                        ],
+                        [
+                            952.1,
+                            -817.1
+                        ],
+                        [
+                            951.6,
+                            -817.1
+                        ],
+                        [
+                            951.6,
+                            -817.6
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "9",
+                "provcode": "9317",
+                "regcode_9": "9",
+                "provcode_9": "973",
+                "name": "CITY OF ZAMBOANGA (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1051.7,
+                            -917.7
+                        ],
+                        [
+                            1052.2,
+                            -917.7
+                        ],
+                        [
+                            1052.2,
+                            -917.2
+                        ],
+                        [
+                            1051.7,
+                            -917.2
+                        ],
+                        [
+                            1051.7,
+                            -917.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "provcode": "10305",
+                "regcode_9": "10",
+                "provcode_9": "1043",
+                "name": "CITY OF CAGAYAN DE ORO  (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1150.5,
+                            -1016.5
+                        ],
+                        [
+                            1151,
+                            -1016.5
+                        ],
+                        [
+                            1151,
+                            -1016
+                        ],
+                        [
+                            1150.5,
+                            -1016
+                        ],
+                        [
+                            1150.5,
+                            -1016.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "provcode": "10309",
+                "regcode_9": "10",
+                "provcode_9": "1035",
+                "name": "CITY OF ILIGAN (HUC)",
+                "old_names": "",
+                "incomeclass": "1st* (recl",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1150.9,
+                            -1016.9000000000001
+                        ],
+                        [
+                            1151.4,
+                            -1016.9000000000001
+                        ],
+                        [
+                            1151.4,
+                            -1016.4000000000001
+                        ],
+                        [
+                            1150.9,
+                            -1016.4000000000001
+                        ],
+                        [
+                            1150.9,
+                            -1016.9000000000001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "11",
+                "provcode": "11307",
+                "regcode_9": "11",
+                "provcode_9": "1124",
+                "name": "CITY OF DAVAO (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1250.7,
+                            -1116.7
+                        ],
+                        [
+                            1251.2,
+                            -1116.7
+                        ],
+                        [
+                            1251.2,
+                            -1116.2
+                        ],
+                        [
+                            1250.7,
+                            -1116.2
+                        ],
+                        [
+                            1250.7,
+                            -1116.7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "12",
+                "provcode": "12308",
+                "regcode_9": "12",
+                "provcode_9": "1263",
+                "name": "CITY OF GENERAL SANTOS (HUC)",
+                "old_names": "Dadiangas",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1350.8000000000002,
+                            -1216.8000000000002
+                        ],
+                        [
+                            1351.3000000000002,
+                            -1216.8000000000002
+                        ],
+                        [
+                            1351.3000000000002,
+                            -1216.3000000000002
+                        ],
+                        [
+                            1350.8000000000002,
+                            -1216.3000000000002
+                        ],
+                        [
+                            1350.8000000000002,
+                            -1216.8000000000002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "16",
+                "provcode": "16304",
+                "regcode_9": "16",
+                "provcode_9": "1602",
+                "name": "CITY OF BUTUAN  (HUC)",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1750.4,
+                            -1616.4
+                        ],
+                        [
+                            1750.9,
+                            -1616.4
+                        ],
+                        [
+                            1750.9,
+                            -1615.9
+                        ],
+                        [
+                            1750.4,
+                            -1615.9
+                        ],
+                        [
+                            1750.4,
+                            -1616.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "provcode": "13817",
+                "regcode_9": "13",
+                "provcode_9": "1376",
+                "name": "PATEROS",
+                "old_names": "",
+                "incomeclass": "1st",
+                "UserLevelID": "",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1501.7,
+                            -1367.7
+                        ],
+                        [
+                            1502.2,
+                            -1367.7
+                        ],
+                        [
+                            1502.2,
+                            -1367.2
+                        ],
+                        [
+                            1501.7,
+                            -1367.2
+                        ],
+                        [
+                            1501.7,
+                            -1367.7
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

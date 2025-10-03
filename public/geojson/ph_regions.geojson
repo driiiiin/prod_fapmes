@@ -1,0 +1,689 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "1",
+                "regcode_9": "1",
+                "name": "REGION I (ILOCOS REGION)",
+                "abbrev": "REGION I",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.5,
+                            13.5
+                        ],
+                        [
+                            121.5,
+                            13.5
+                        ],
+                        [
+                            121.5,
+                            14.5
+                        ],
+                        [
+                            120.5,
+                            14.5
+                        ],
+                        [
+                            120.5,
+                            13.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "2",
+                "regcode_9": "2",
+                "name": "REGION II (CAGAYAN VALLEY)",
+                "abbrev": "REGION II",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121,
+                            13
+                        ],
+                        [
+                            122,
+                            13
+                        ],
+                        [
+                            122,
+                            14
+                        ],
+                        [
+                            121,
+                            14
+                        ],
+                        [
+                            121,
+                            13
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "3",
+                "regcode_9": "3",
+                "name": "REGION III (CENTRAL LUZON)",
+                "abbrev": "REGION III",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.5,
+                            12.5
+                        ],
+                        [
+                            122.5,
+                            12.5
+                        ],
+                        [
+                            122.5,
+                            13.5
+                        ],
+                        [
+                            121.5,
+                            13.5
+                        ],
+                        [
+                            121.5,
+                            12.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "4",
+                "regcode_9": "4",
+                "name": "REGION IV-A (CALABARZON)",
+                "abbrev": "CALABARZON",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122,
+                            12
+                        ],
+                        [
+                            123,
+                            12
+                        ],
+                        [
+                            123,
+                            13
+                        ],
+                        [
+                            122,
+                            13
+                        ],
+                        [
+                            122,
+                            12
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "17",
+                "regcode_9": "17",
+                "name": "MIMAROPA REGION",
+                "abbrev": "MIMAROPA",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.5,
+                            5.5
+                        ],
+                        [
+                            129.5,
+                            5.5
+                        ],
+                        [
+                            129.5,
+                            6.5
+                        ],
+                        [
+                            128.5,
+                            6.5
+                        ],
+                        [
+                            128.5,
+                            5.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "5",
+                "regcode_9": "5",
+                "name": "REGION V (BICOL REGION)",
+                "abbrev": "REGION V",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.5,
+                            11.5
+                        ],
+                        [
+                            123.5,
+                            11.5
+                        ],
+                        [
+                            123.5,
+                            12.5
+                        ],
+                        [
+                            122.5,
+                            12.5
+                        ],
+                        [
+                            122.5,
+                            11.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "6",
+                "regcode_9": "6",
+                "name": "REGION VI (WESTERN VISAYAS)",
+                "abbrev": "REGION VI",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123,
+                            11
+                        ],
+                        [
+                            124,
+                            11
+                        ],
+                        [
+                            124,
+                            12
+                        ],
+                        [
+                            123,
+                            12
+                        ],
+                        [
+                            123,
+                            11
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "7",
+                "regcode_9": "7",
+                "name": "REGION VII (CENTRAL VISAYAS)",
+                "abbrev": "REGION VII",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.5,
+                            10.5
+                        ],
+                        [
+                            124.5,
+                            10.5
+                        ],
+                        [
+                            124.5,
+                            11.5
+                        ],
+                        [
+                            123.5,
+                            11.5
+                        ],
+                        [
+                            123.5,
+                            10.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "8",
+                "regcode_9": "8",
+                "name": "REGION VIII (EASTERN VISAYAS)",
+                "abbrev": "REGION VIII",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124,
+                            10
+                        ],
+                        [
+                            125,
+                            10
+                        ],
+                        [
+                            125,
+                            11
+                        ],
+                        [
+                            124,
+                            11
+                        ],
+                        [
+                            124,
+                            10
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "9",
+                "regcode_9": "9",
+                "name": "REGION IX (ZAMBOANGA PENINSULA)",
+                "abbrev": "REGION IX",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.5,
+                            9.5
+                        ],
+                        [
+                            125.5,
+                            9.5
+                        ],
+                        [
+                            125.5,
+                            10.5
+                        ],
+                        [
+                            124.5,
+                            10.5
+                        ],
+                        [
+                            124.5,
+                            9.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "10",
+                "regcode_9": "10",
+                "name": "REGION X (NORTHERN MINDANAO)",
+                "abbrev": "REGION X",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125,
+                            9
+                        ],
+                        [
+                            126,
+                            9
+                        ],
+                        [
+                            126,
+                            10
+                        ],
+                        [
+                            125,
+                            10
+                        ],
+                        [
+                            125,
+                            9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "11",
+                "regcode_9": "11",
+                "name": "REGION XI (DAVAO REGION)",
+                "abbrev": "REGION XI",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            125.5,
+                            8.5
+                        ],
+                        [
+                            126.5,
+                            8.5
+                        ],
+                        [
+                            126.5,
+                            9.5
+                        ],
+                        [
+                            125.5,
+                            9.5
+                        ],
+                        [
+                            125.5,
+                            8.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "12",
+                "regcode_9": "12",
+                "name": "REGION XII (SOCCSKSARGEN)",
+                "abbrev": "REGION XII",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126,
+                            8
+                        ],
+                        [
+                            127,
+                            8
+                        ],
+                        [
+                            127,
+                            9
+                        ],
+                        [
+                            126,
+                            9
+                        ],
+                        [
+                            126,
+                            8
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "13",
+                "regcode_9": "13",
+                "name": "NATIONAL CAPITAL REGION (NCR)",
+                "abbrev": "NCR",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            126.5,
+                            7.5
+                        ],
+                        [
+                            127.5,
+                            7.5
+                        ],
+                        [
+                            127.5,
+                            8.5
+                        ],
+                        [
+                            126.5,
+                            8.5
+                        ],
+                        [
+                            126.5,
+                            7.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "14",
+                "regcode_9": "14",
+                "name": "CAR",
+                "abbrev": "CAR",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            127,
+                            7
+                        ],
+                        [
+                            128,
+                            7
+                        ],
+                        [
+                            128,
+                            8
+                        ],
+                        [
+                            127,
+                            8
+                        ],
+                        [
+                            127,
+                            7
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "16",
+                "regcode_9": "16",
+                "name": "REGION XIII (CARAGA)",
+                "abbrev": "REGION XIII",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128,
+                            6
+                        ],
+                        [
+                            129,
+                            6
+                        ],
+                        [
+                            129,
+                            7
+                        ],
+                        [
+                            128,
+                            7
+                        ],
+                        [
+                            128,
+                            6
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "19",
+                "regcode_9": "15",
+                "name": "BARMM",
+                "abbrev": "REGION IV-B",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            129.5,
+                            4.5
+                        ],
+                        [
+                            130.5,
+                            4.5
+                        ],
+                        [
+                            130.5,
+                            5.5
+                        ],
+                        [
+                            129.5,
+                            5.5
+                        ],
+                        [
+                            129.5,
+                            4.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "regcode": "18",
+                "regcode_9": "6",
+                "name": "NEGROS ISLAND REGION (NIR)",
+                "abbrev": "REGION NIR",
+                "UserLevelID": "0",
+                "status": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            129,
+                            5
+                        ],
+                        [
+                            130,
+                            5
+                        ],
+                        [
+                            130,
+                            6
+                        ],
+                        [
+                            129,
+                            6
+                        ],
+                        [
+                            129,
+                            5
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

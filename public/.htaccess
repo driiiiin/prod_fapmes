@@ -1,0 +1,39 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Allow direct access to storage files
+    RewriteCond %{REQUEST_URI} ^/storage/ [NC]
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^ - [L]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Set proper headers for document files
+    <FilesMatch "\.(pdf|doc|docx|PDF|DOC|DOCX)$">
+        Header set Content-Disposition inline
+        ForceType application/octet-stream
+        # Allow from all
+        Require all granted
+    </FilesMatch>
+
+    # Add Content Security Policy header for sitemap.xml (static file)
+    <Files "sitemap.xml">
+        Header set Content-Security-Policy "default-src 'none'"
+    </Files>
+</IfModule>

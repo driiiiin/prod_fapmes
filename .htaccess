@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Force HTTPS for fapmes.doh.gov.ph domain
+    RewriteCond %{HTTPS} off
+    RewriteCond %{HTTP_HOST} ^fapmes\.doh\.gov\.ph$ [NC]
+    RewriteRule ^(.*)$ https://fapmes.doh.gov.ph%{REQUEST_URI} [L,R=301]
+
+    # Redirect all requests to public folder (but not if already in public)
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ /public/$1 [L]
+</IfModule>
+
+

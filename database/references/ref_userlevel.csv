@@ -1,0 +1,7 @@
+userlevel_code,userlevel_desc
+-1,Super Admin
+2,BIHC ODA M&E Team (Administrator)
+3,FAPs Staff (Encoder)
+4,International Health Partner (Encoder)
+5,BIHC Desk Officer (Validator / Encoder)
+6,BIHC Supervisor
